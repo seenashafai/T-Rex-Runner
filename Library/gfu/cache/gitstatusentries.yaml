@@ -12,9 +12,27 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 0001-01-01T00:00:00.0000000+00:00
-  initializedAtString: 2018-03-28T13:57:49.2862190+01:00
+  lastUpdatedAtString: 2018-03-28T14:05:52.2561620+01:00
+  initializedAtString: 2018-03-28T14:04:34.7315060+01:00
   entries:
+  - path: Library/CurrentLayout.dwlt
+    fullPath: /Users/seena/T-Rex Runner/Library/CurrentLayout.dwlt
+    projectPath: Library/CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/EditorInstance.json
+    fullPath: /Users/seena/T-Rex Runner/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/expandedItems
+    fullPath: /Users/seena/T-Rex Runner/Library/expandedItems
+    projectPath: Library/expandedItems
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
@@ -30,6 +48,18 @@ MonoBehaviour:
   - path: Library/gfu/cache/gitstatusentries.yaml
     fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gitstatusentries.yaml
     projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library/gfu/cache/gituser.yaml
+    fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
     originalPath: 
     status: 3
     staged: 0

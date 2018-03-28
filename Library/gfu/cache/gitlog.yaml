@@ -12,9 +12,48 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-03-28T14:01:22.7566260+01:00
-  initializedAtString: 2018-03-28T13:58:34.0523810+01:00
+  lastUpdatedAtString: 2018-03-28T14:05:14.0648630+01:00
+  initializedAtString: 2018-03-28T14:04:38.0623430+01:00
   log:
+  - commitID: 9aad94a56c7a7a4a37d977592e94361d75748e50
+    mergeA: 
+    mergeB: 
+    authorName: seenashafai
+    authorEmail: seenas@btinternet.com
+    commitEmail: seenas@btinternet.com
+    commitName: seenashafai
+    summary: Github Config
+    description: 'Github Config
+
+
+      Add Github Configuration'
+    timeString: 2018-03-28T14:01:45.0000000+01:00
+    commitTimeString: 2018-03-28T14:01:45.0000000+01:00
+    changes:
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: e4bab61e480a97de2fcc34ff6d4b9789c7e389b3
     mergeA: 
     mergeB: 
