@@ -12,9 +12,75 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-03-28T14:05:14.0648630+01:00
+  lastUpdatedAtString: 2018-03-28T14:07:29.3996730+01:00
   initializedAtString: 2018-03-28T14:04:38.0623430+01:00
   log:
+  - commitID: 2e6f9a46643883fa4c35df4fbe300048414561c0
+    mergeA: 
+    mergeB: 
+    authorName: seenashafai
+    authorEmail: seenas@btinternet.com
+    commitEmail: seenas@btinternet.com
+    commitName: seenashafai
+    summary: Github Config
+    description: Github Config
+    timeString: 2018-03-28T14:06:02.0000000+01:00
+    commitTimeString: 2018-03-28T14:06:02.0000000+01:00
+    changes:
+    - path: Library/CurrentLayout.dwlt
+      fullPath: /Users/seena/T-Rex Runner/Library/CurrentLayout.dwlt
+      projectPath: Library/CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/EditorInstance.json
+      fullPath: /Users/seena/T-Rex Runner/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/expandedItems
+      fullPath: /Users/seena/T-Rex Runner/Library/expandedItems
+      projectPath: Library/expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gituser.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gituser.yaml
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 9aad94a56c7a7a4a37d977592e94361d75748e50
     mergeA: 
     mergeB: 

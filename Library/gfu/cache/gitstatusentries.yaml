@@ -12,24 +12,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-03-28T14:05:52.2561620+01:00
+  lastUpdatedAtString: 0001-01-01T00:00:00.0000000+00:00
   initializedAtString: 2018-03-28T14:04:34.7315060+01:00
   entries:
-  - path: Library/CurrentLayout.dwlt
-    fullPath: /Users/seena/T-Rex Runner/Library/CurrentLayout.dwlt
-    projectPath: Library/CurrentLayout.dwlt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/EditorInstance.json
-    fullPath: /Users/seena/T-Rex Runner/Library/EditorInstance.json
-    projectPath: Library/EditorInstance.json
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/expandedItems
-    fullPath: /Users/seena/T-Rex Runner/Library/expandedItems
-    projectPath: Library/expandedItems
+  - path: Library/assetDatabase3
+    fullPath: /Users/seena/T-Rex Runner/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
     originalPath: 
     status: 3
     staged: 0
@@ -51,21 +39,867 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/gfu/cache/gittrackingstatus.yaml
-    fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gittrackingstatus.yaml
-    projectPath: Library/gfu/cache/gittrackingstatus.yaml
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library/gfu/cache/gituser.yaml
-    fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gituser.yaml
-    projectPath: Library/gfu/cache/gituser.yaml
+  - path: Library/metadata/00/00000000000000004000000000000000
+    fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000004000000000000000
+    projectPath: Library/metadata/00/00000000000000004000000000000000
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/gfu/cache/repoinfo.yaml
-    fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/repoinfo.yaml
-    projectPath: Library/gfu/cache/repoinfo.yaml
+  - path: ProjectSettings/ProjectSettings.asset
+    fullPath: /Users/seena/T-Rex Runner/ProjectSettings/ProjectSettings.asset
+    projectPath: ProjectSettings/ProjectSettings.asset
     originalPath: 
     status: 3
+    staged: 0
+  - path: .collabignore
+    fullPath: /Users/seena/T-Rex Runner/.collabignore
+    projectPath: .collabignore
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/Collab/CollabSnapshot_905eb81e-5a67-4586-884c-29d3eb7003a8.txt
+    fullPath: /Users/seena/T-Rex Runner/Library/Collab/CollabSnapshot_905eb81e-5a67-4586-884c-29d3eb7003a8.txt
+    projectPath: Library/Collab/CollabSnapshot_905eb81e-5a67-4586-884c-29d3eb7003a8.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Bird-DownFlap.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Bird-DownFlap.png
+    projectPath: Temp/Upload/Assets/Bird-DownFlap.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Bird-DownFlap.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Bird-DownFlap.png.meta
+    projectPath: Temp/Upload/Assets/Bird-DownFlap.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Bird-UpFlap.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Bird-UpFlap.png
+    projectPath: Temp/Upload/Assets/Bird-UpFlap.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Bird-UpFlap.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Bird-UpFlap.png.meta
+    projectPath: Temp/Upload/Assets/Bird-UpFlap.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Cactus-GroupLarge01.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Cactus-GroupLarge01.png
+    projectPath: Temp/Upload/Assets/Cactus-GroupLarge01.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Cactus-GroupLarge01.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Cactus-GroupLarge01.png.meta
+    projectPath: Temp/Upload/Assets/Cactus-GroupLarge01.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Cactus-Large01.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Cactus-Large01.png
+    projectPath: Temp/Upload/Assets/Cactus-Large01.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Cactus-Large01.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Cactus-Large01.png.meta
+    projectPath: Temp/Upload/Assets/Cactus-Large01.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Cactus-Large02.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Cactus-Large02.png
+    projectPath: Temp/Upload/Assets/Cactus-Large02.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Cactus-Large02.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Cactus-Large02.png.meta
+    projectPath: Temp/Upload/Assets/Cactus-Large02.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Cactus-Mini01.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Cactus-Mini01.png
+    projectPath: Temp/Upload/Assets/Cactus-Mini01.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Cactus-Mini01.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Cactus-Mini01.png.meta
+    projectPath: Temp/Upload/Assets/Cactus-Mini01.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Cactus-Mini02.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Cactus-Mini02.png
+    projectPath: Temp/Upload/Assets/Cactus-Mini02.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Cactus-Mini02.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Cactus-Mini02.png.meta
+    projectPath: Temp/Upload/Assets/Cactus-Mini02.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Cactus-Mini04.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Cactus-Mini04.png
+    projectPath: Temp/Upload/Assets/Cactus-Mini04.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Cactus-Mini04.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Cactus-Mini04.png.meta
+    projectPath: Temp/Upload/Assets/Cactus-Mini04.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Cactus-Mini05.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Cactus-Mini05.png
+    projectPath: Temp/Upload/Assets/Cactus-Mini05.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Cactus-Mini05.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Cactus-Mini05.png.meta
+    projectPath: Temp/Upload/Assets/Cactus-Mini05.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Cloud-01.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Cloud-01.png
+    projectPath: Temp/Upload/Assets/Cloud-01.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Cloud-01.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Cloud-01.png.meta
+    projectPath: Temp/Upload/Assets/Cloud-01.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Dino-Dead01.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Dino-Dead01.png
+    projectPath: Temp/Upload/Assets/Dino-Dead01.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Dino-Dead01.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Dino-Dead01.png.meta
+    projectPath: Temp/Upload/Assets/Dino-Dead01.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Dino-Dead02-NoWhite.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Dino-Dead02-NoWhite.png
+    projectPath: Temp/Upload/Assets/Dino-Dead02-NoWhite.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Dino-Dead02-NoWhite.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Dino-Dead02-NoWhite.png.meta
+    projectPath: Temp/Upload/Assets/Dino-Dead02-NoWhite.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Dino-EyesClosed.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Dino-EyesClosed.png
+    projectPath: Temp/Upload/Assets/Dino-EyesClosed.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Dino-EyesClosed.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Dino-EyesClosed.png.meta
+    projectPath: Temp/Upload/Assets/Dino-EyesClosed.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Dino-EyesOpen.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Dino-EyesOpen.png
+    projectPath: Temp/Upload/Assets/Dino-EyesOpen.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Dino-EyesOpen.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Dino-EyesOpen.png.meta
+    projectPath: Temp/Upload/Assets/Dino-EyesOpen.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Dino-PreGame.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Dino-PreGame.png
+    projectPath: Temp/Upload/Assets/Dino-PreGame.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Dino-PreGame.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Dino-PreGame.png.meta
+    projectPath: Temp/Upload/Assets/Dino-PreGame.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Dino-Running01.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Dino-Running01.png
+    projectPath: Temp/Upload/Assets/Dino-Running01.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Dino-Running01.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Dino-Running01.png.meta
+    projectPath: Temp/Upload/Assets/Dino-Running01.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Dino-Running02.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Dino-Running02.png
+    projectPath: Temp/Upload/Assets/Dino-Running02.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Dino-Running02.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Dino-Running02.png.meta
+    projectPath: Temp/Upload/Assets/Dino-Running02.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Level-Full.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Level-Full.png
+    projectPath: Temp/Upload/Assets/Level-Full.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Level-Full.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Level-Full.png.meta
+    projectPath: Temp/Upload/Assets/Level-Full.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-00.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-00.png
+    projectPath: Temp/Upload/Assets/Number-00.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-00.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-00.png.meta
+    projectPath: Temp/Upload/Assets/Number-00.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-01.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-01.png
+    projectPath: Temp/Upload/Assets/Number-01.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-01.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-01.png.meta
+    projectPath: Temp/Upload/Assets/Number-01.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-02.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-02.png
+    projectPath: Temp/Upload/Assets/Number-02.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-02.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-02.png.meta
+    projectPath: Temp/Upload/Assets/Number-02.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-03.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-03.png
+    projectPath: Temp/Upload/Assets/Number-03.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-03.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-03.png.meta
+    projectPath: Temp/Upload/Assets/Number-03.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-04.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-04.png
+    projectPath: Temp/Upload/Assets/Number-04.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-04.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-04.png.meta
+    projectPath: Temp/Upload/Assets/Number-04.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-05.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-05.png
+    projectPath: Temp/Upload/Assets/Number-05.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-05.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-05.png.meta
+    projectPath: Temp/Upload/Assets/Number-05.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-06.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-06.png
+    projectPath: Temp/Upload/Assets/Number-06.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-06.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-06.png.meta
+    projectPath: Temp/Upload/Assets/Number-06.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-07.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-07.png
+    projectPath: Temp/Upload/Assets/Number-07.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-07.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-07.png.meta
+    projectPath: Temp/Upload/Assets/Number-07.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-08.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-08.png
+    projectPath: Temp/Upload/Assets/Number-08.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-08.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-08.png.meta
+    projectPath: Temp/Upload/Assets/Number-08.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-09.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-09.png
+    projectPath: Temp/Upload/Assets/Number-09.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Number-09.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Number-09.png.meta
+    projectPath: Temp/Upload/Assets/Number-09.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins.meta
+    projectPath: Temp/Upload/Assets/Plugins.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/CREDITS.txt
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/CREDITS.txt
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/CREDITS.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/CREDITS.txt.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/CREDITS.txt.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/CREDITS.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/EULA.txt
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/EULA.txt
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/EULA.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/EULA.txt.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/EULA.txt.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/EULA.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/Mono.Security.dll
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/Mono.Security.dll
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/Mono.Security.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/Mono.Security.dll.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/Mono.Security.dll.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/Mono.Security.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip.md5
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip.md5
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip.md5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip.md5.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip.md5.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip.md5.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux/gitconfig
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux/gitconfig
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux/gitconfig
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux/gitconfig.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux/gitconfig.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/linux/gitconfig.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.md5
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.md5
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.md5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.md5.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.md5.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.md5.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac/gitconfig
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac/gitconfig
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac/gitconfig
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac/gitconfig.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac/gitconfig.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/mac/gitconfig.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.md5
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.md5
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.md5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.md5.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.md5.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.md5.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.md5
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.md5
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.md5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.md5.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.md5.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.md5.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/gitconfig
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/gitconfig
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/gitconfig
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/gitconfig.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/gitconfig.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/PlatformResources/windows/gitconfig.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/Resources.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/Resources.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/Resources.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/Resources/octorun.zip
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/Resources/octorun.zip
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/Resources/octorun.zip
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/Resources/octorun.zip.md5
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/Resources/octorun.zip.md5
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/Resources/octorun.zip.md5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/Resources/octorun.zip.md5.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/Resources/octorun.zip.md5.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/Resources/octorun.zip.md5.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/Resources/octorun.zip.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/Resources/octorun.zip.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/Resources/octorun.zip.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/System.Threading.dll
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/System.Threading.dll
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/System.Threading.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/libsfw.bundle
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/libsfw.bundle
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/libsfw.bundle
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/libsfw.so
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/libsfw.so
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/libsfw.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/sfw.net.dll
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/sfw.net.dll
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/sfw.net.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/x64.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/x64.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/x64.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/x86.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/x86.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/x86.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    projectPath: Temp/Upload/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Restart-Icon.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Restart-Icon.png
+    projectPath: Temp/Upload/Assets/Restart-Icon.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Restart-Icon.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Restart-Icon.png.meta
+    projectPath: Temp/Upload/Assets/Restart-Icon.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Text-GAMEOVER.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Text-GAMEOVER.png
+    projectPath: Temp/Upload/Assets/Text-GAMEOVER.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Text-GAMEOVER.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Text-GAMEOVER.png.meta
+    projectPath: Temp/Upload/Assets/Text-GAMEOVER.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Text-HI.png
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Text-HI.png
+    projectPath: Temp/Upload/Assets/Text-HI.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Text-HI.png.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Text-HI.png.meta
+    projectPath: Temp/Upload/Assets/Text-HI.png.meta
+    originalPath: 
+    status: 1
     staged: 0
