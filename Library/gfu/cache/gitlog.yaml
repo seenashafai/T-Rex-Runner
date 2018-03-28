@@ -12,6 +12,3539 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 0001-01-01T00:00:00.0000000+00:00
-  initializedAtString: 0001-01-01T00:00:00.0000000+00:00
-  log: []
+  lastUpdatedAtString: 2018-03-28T14:01:22.7566260+01:00
+  initializedAtString: 2018-03-28T13:58:34.0523810+01:00
+  log:
+  - commitID: e4bab61e480a97de2fcc34ff6d4b9789c7e389b3
+    mergeA: 
+    mergeB: 
+    authorName: seenashafai
+    authorEmail: seenas@btinternet.com
+    commitEmail: seenas@btinternet.com
+    commitName: seenashafai
+    summary: Initial Commit
+    description: 'Initial Commit
+
+
+      Initial Commit from Unity
+
+      Add Asset Package'
+    timeString: 2018-03-28T13:58:33.0000000+01:00
+    commitTimeString: 2018-03-28T13:58:33.0000000+01:00
+    changes:
+    - path: Assets/Bird-DownFlap.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Bird-DownFlap.png
+      projectPath: Assets/Bird-DownFlap.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Bird-DownFlap.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Bird-DownFlap.png.meta
+      projectPath: Assets/Bird-DownFlap.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Bird-UpFlap.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Bird-UpFlap.png
+      projectPath: Assets/Bird-UpFlap.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Bird-UpFlap.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Bird-UpFlap.png.meta
+      projectPath: Assets/Bird-UpFlap.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Cactus-GroupLarge01.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Cactus-GroupLarge01.png
+      projectPath: Assets/Cactus-GroupLarge01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Cactus-GroupLarge01.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Cactus-GroupLarge01.png.meta
+      projectPath: Assets/Cactus-GroupLarge01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Cactus-Large01.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Cactus-Large01.png
+      projectPath: Assets/Cactus-Large01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Cactus-Large01.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Cactus-Large01.png.meta
+      projectPath: Assets/Cactus-Large01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Cactus-Large02.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Cactus-Large02.png
+      projectPath: Assets/Cactus-Large02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Cactus-Large02.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Cactus-Large02.png.meta
+      projectPath: Assets/Cactus-Large02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Cactus-Mini01.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Cactus-Mini01.png
+      projectPath: Assets/Cactus-Mini01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Cactus-Mini01.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Cactus-Mini01.png.meta
+      projectPath: Assets/Cactus-Mini01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Cactus-Mini02.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Cactus-Mini02.png
+      projectPath: Assets/Cactus-Mini02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Cactus-Mini02.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Cactus-Mini02.png.meta
+      projectPath: Assets/Cactus-Mini02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Cactus-Mini04.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Cactus-Mini04.png
+      projectPath: Assets/Cactus-Mini04.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Cactus-Mini04.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Cactus-Mini04.png.meta
+      projectPath: Assets/Cactus-Mini04.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Cactus-Mini05.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Cactus-Mini05.png
+      projectPath: Assets/Cactus-Mini05.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Cactus-Mini05.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Cactus-Mini05.png.meta
+      projectPath: Assets/Cactus-Mini05.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Cloud-01.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Cloud-01.png
+      projectPath: Assets/Cloud-01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Cloud-01.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Cloud-01.png.meta
+      projectPath: Assets/Cloud-01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Dino-Dead01.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Dino-Dead01.png
+      projectPath: Assets/Dino-Dead01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Dino-Dead01.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Dino-Dead01.png.meta
+      projectPath: Assets/Dino-Dead01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Dino-Dead02-NoWhite.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Dino-Dead02-NoWhite.png
+      projectPath: Assets/Dino-Dead02-NoWhite.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Dino-Dead02-NoWhite.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Dino-Dead02-NoWhite.png.meta
+      projectPath: Assets/Dino-Dead02-NoWhite.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Dino-EyesClosed.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Dino-EyesClosed.png
+      projectPath: Assets/Dino-EyesClosed.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Dino-EyesClosed.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Dino-EyesClosed.png.meta
+      projectPath: Assets/Dino-EyesClosed.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Dino-EyesOpen.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Dino-EyesOpen.png
+      projectPath: Assets/Dino-EyesOpen.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Dino-EyesOpen.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Dino-EyesOpen.png.meta
+      projectPath: Assets/Dino-EyesOpen.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Dino-PreGame.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Dino-PreGame.png
+      projectPath: Assets/Dino-PreGame.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Dino-PreGame.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Dino-PreGame.png.meta
+      projectPath: Assets/Dino-PreGame.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Dino-Running01.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Dino-Running01.png
+      projectPath: Assets/Dino-Running01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Dino-Running01.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Dino-Running01.png.meta
+      projectPath: Assets/Dino-Running01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Dino-Running02.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Dino-Running02.png
+      projectPath: Assets/Dino-Running02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Dino-Running02.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Dino-Running02.png.meta
+      projectPath: Assets/Dino-Running02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Level-Full.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Level-Full.png
+      projectPath: Assets/Level-Full.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Level-Full.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Level-Full.png.meta
+      projectPath: Assets/Level-Full.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-00.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-00.png
+      projectPath: Assets/Number-00.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-00.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-00.png.meta
+      projectPath: Assets/Number-00.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-01.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-01.png
+      projectPath: Assets/Number-01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-01.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-01.png.meta
+      projectPath: Assets/Number-01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-02.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-02.png
+      projectPath: Assets/Number-02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-02.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-02.png.meta
+      projectPath: Assets/Number-02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-03.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-03.png
+      projectPath: Assets/Number-03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-03.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-03.png.meta
+      projectPath: Assets/Number-03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-04.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-04.png
+      projectPath: Assets/Number-04.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-04.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-04.png.meta
+      projectPath: Assets/Number-04.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-05.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-05.png
+      projectPath: Assets/Number-05.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-05.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-05.png.meta
+      projectPath: Assets/Number-05.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-06.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-06.png
+      projectPath: Assets/Number-06.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-06.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-06.png.meta
+      projectPath: Assets/Number-06.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-07.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-07.png
+      projectPath: Assets/Number-07.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-07.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-07.png.meta
+      projectPath: Assets/Number-07.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-08.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-08.png
+      projectPath: Assets/Number-08.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-08.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-08.png.meta
+      projectPath: Assets/Number-08.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-09.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-09.png
+      projectPath: Assets/Number-09.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Number-09.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Number-09.png.meta
+      projectPath: Assets/Number-09.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins.meta
+      projectPath: Assets/Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub.meta
+      projectPath: Assets/Plugins/GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor.meta
+      projectPath: Assets/Plugins/GitHub/Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/CREDITS.txt
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/CREDITS.txt
+      projectPath: Assets/Plugins/GitHub/Editor/CREDITS.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/CREDITS.txt.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/CREDITS.txt.meta
+      projectPath: Assets/Plugins/GitHub/Editor/CREDITS.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/EULA.txt
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/EULA.txt
+      projectPath: Assets/Plugins/GitHub/Editor/EULA.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/EULA.txt.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/EULA.txt.meta
+      projectPath: Assets/Plugins/GitHub/Editor/EULA.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+      projectPath: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/Mono.Security.dll
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/Mono.Security.dll
+      projectPath: Assets/Plugins/GitHub/Editor/Mono.Security.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/Mono.Security.dll.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/Mono.Security.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/Mono.Security.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources.meta
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/linux.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/linux.meta
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/linux.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip.md5
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip.md5
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip.md5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip.md5.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip.md5.meta
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip.md5.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip.meta
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/linux/git-lfs.zip.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/linux/gitconfig
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/linux/gitconfig
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/linux/gitconfig
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/linux/gitconfig.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/linux/gitconfig.meta
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/linux/gitconfig.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/mac.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/mac.meta
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/mac.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.md5
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.md5
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.md5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.md5.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.md5.meta
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.md5.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.meta
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/mac/git-lfs.zip.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/mac/gitconfig
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/mac/gitconfig
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/mac/gitconfig
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/mac/gitconfig.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/mac/gitconfig.meta
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/mac/gitconfig.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/windows.meta
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.md5
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.md5
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.md5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.md5.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.md5.meta
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.md5.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.meta
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git-lfs.zip.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.md5
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.md5
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.md5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.md5.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.md5.meta
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.md5.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.meta
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/git.zip.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/gitconfig
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/windows/gitconfig
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/gitconfig
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/PlatformResources/windows/gitconfig.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/PlatformResources/windows/gitconfig.meta
+      projectPath: Assets/Plugins/GitHub/Editor/PlatformResources/windows/gitconfig.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/Resources.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/Resources.meta
+      projectPath: Assets/Plugins/GitHub/Editor/Resources.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/Resources/octorun.zip
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/Resources/octorun.zip
+      projectPath: Assets/Plugins/GitHub/Editor/Resources/octorun.zip
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/Resources/octorun.zip.md5
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/Resources/octorun.zip.md5
+      projectPath: Assets/Plugins/GitHub/Editor/Resources/octorun.zip.md5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/Resources/octorun.zip.md5.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/Resources/octorun.zip.md5.meta
+      projectPath: Assets/Plugins/GitHub/Editor/Resources/octorun.zip.md5.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/Resources/octorun.zip.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/Resources/octorun.zip.meta
+      projectPath: Assets/Plugins/GitHub/Editor/Resources/octorun.zip.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/System.Threading.dll
+      projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.bundle
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/libsfw.bundle
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.so
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/libsfw.so
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/sfw.net.dll
+      projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/x64.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/x86.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Restart-Icon.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Restart-Icon.png
+      projectPath: Assets/Restart-Icon.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Restart-Icon.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Restart-Icon.png.meta
+      projectPath: Assets/Restart-Icon.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Text-GAMEOVER.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Text-GAMEOVER.png
+      projectPath: Assets/Text-GAMEOVER.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Text-GAMEOVER.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Text-GAMEOVER.png.meta
+      projectPath: Assets/Text-GAMEOVER.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Text-HI.png
+      fullPath: /Users/seena/T-Rex Runner/Assets/Text-HI.png
+      projectPath: Assets/Text-HI.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Text-HI.png.meta
+      fullPath: /Users/seena/T-Rex Runner/Assets/Text-HI.png.meta
+      projectPath: Assets/Text-HI.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/AnnotationManager
+      fullPath: /Users/seena/T-Rex Runner/Library/AnnotationManager
+      projectPath: Library/AnnotationManager
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/AssetImportState
+      fullPath: /Users/seena/T-Rex Runner/Library/AssetImportState
+      projectPath: Library/AssetImportState
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/BuildPlayer.prefs
+      fullPath: /Users/seena/T-Rex Runner/Library/BuildPlayer.prefs
+      projectPath: Library/BuildPlayer.prefs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/BuildSettings.asset
+      fullPath: /Users/seena/T-Rex Runner/Library/BuildSettings.asset
+      projectPath: Library/BuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/CurrentLayout.dwlt
+      fullPath: /Users/seena/T-Rex Runner/Library/CurrentLayout.dwlt
+      projectPath: Library/CurrentLayout.dwlt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/EditorInstance.json
+      fullPath: /Users/seena/T-Rex Runner/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/EditorUserBuildSettings.asset
+      fullPath: /Users/seena/T-Rex Runner/Library/EditorUserBuildSettings.asset
+      projectPath: Library/EditorUserBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/EditorUserSettings.asset
+      fullPath: /Users/seena/T-Rex Runner/Library/EditorUserSettings.asset
+      projectPath: Library/EditorUserSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/InspectorExpandedItems.asset
+      fullPath: /Users/seena/T-Rex Runner/Library/InspectorExpandedItems.asset
+      projectPath: Library/InspectorExpandedItems.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/LastSceneManagerSetup.txt
+      fullPath: /Users/seena/T-Rex Runner/Library/LastSceneManagerSetup.txt
+      projectPath: Library/LastSceneManagerSetup.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/LibraryFormatVersion.txt
+      fullPath: /Users/seena/T-Rex Runner/Library/LibraryFormatVersion.txt
+      projectPath: Library/LibraryFormatVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/MonoManager.asset
+      fullPath: /Users/seena/T-Rex Runner/Library/MonoManager.asset
+      projectPath: Library/MonoManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ProjectSettings.asset
+      fullPath: /Users/seena/T-Rex Runner/Library/ProjectSettings.asset
+      projectPath: Library/ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      fullPath: /Users/seena/T-Rex Runner/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ScriptMapper
+      fullPath: /Users/seena/T-Rex Runner/Library/ScriptMapper
+      projectPath: Library/ScriptMapper
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ShaderCache/4/4132e6e64e0ea152188abb4cc949949d.bin
+      fullPath: /Users/seena/T-Rex Runner/Library/ShaderCache/4/4132e6e64e0ea152188abb4cc949949d.bin
+      projectPath: Library/ShaderCache/4/4132e6e64e0ea152188abb4cc949949d.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ShaderCache/8/8ef79ebd0bd814b87209bfc6f06f0134.bin
+      fullPath: /Users/seena/T-Rex Runner/Library/ShaderCache/8/8ef79ebd0bd814b87209bfc6f06f0134.bin
+      projectPath: Library/ShaderCache/8/8ef79ebd0bd814b87209bfc6f06f0134.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ShaderCache/b/b36b99d594bc32f496424d9cccc3efcc.bin
+      fullPath: /Users/seena/T-Rex Runner/Library/ShaderCache/b/b36b99d594bc32f496424d9cccc3efcc.bin
+      projectPath: Library/ShaderCache/b/b36b99d594bc32f496424d9cccc3efcc.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ShaderCache/b/b56a00030af2b04bbabdca2188f93807.bin
+      fullPath: /Users/seena/T-Rex Runner/Library/ShaderCache/b/b56a00030af2b04bbabdca2188f93807.bin
+      projectPath: Library/ShaderCache/b/b56a00030af2b04bbabdca2188f93807.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ShaderCache/b/b6e4cf6f7e3b8eb285caeeb3e74cad0a.bin
+      fullPath: /Users/seena/T-Rex Runner/Library/ShaderCache/b/b6e4cf6f7e3b8eb285caeeb3e74cad0a.bin
+      projectPath: Library/ShaderCache/b/b6e4cf6f7e3b8eb285caeeb3e74cad0a.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ShaderCache/c/c749383b249c078553a052bf4f6bebbd.bin
+      fullPath: /Users/seena/T-Rex Runner/Library/ShaderCache/c/c749383b249c078553a052bf4f6bebbd.bin
+      projectPath: Library/ShaderCache/c/c749383b249c078553a052bf4f6bebbd.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ShaderCache/d/d41cfb5521cc75eda0eb846dc30a95ec.bin
+      fullPath: /Users/seena/T-Rex Runner/Library/ShaderCache/d/d41cfb5521cc75eda0eb846dc30a95ec.bin
+      projectPath: Library/ShaderCache/d/d41cfb5521cc75eda0eb846dc30a95ec.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/ShaderCache/f/f6600fb29d58f21685f38ebc70d6a481.bin
+      fullPath: /Users/seena/T-Rex Runner/Library/ShaderCache/f/f6600fb29d58f21685f38ebc70d6a481.bin
+      projectPath: Library/ShaderCache/f/f6600fb29d58f21685f38ebc70d6a481.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/SpriteAtlasDatabase.asset
+      fullPath: /Users/seena/T-Rex Runner/Library/SpriteAtlasDatabase.asset
+      projectPath: Library/SpriteAtlasDatabase.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/TilemapEditorUserSettings.asset
+      fullPath: /Users/seena/T-Rex Runner/Library/TilemapEditorUserSettings.asset
+      projectPath: Library/TilemapEditorUserSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/assetDatabase3
+      fullPath: /Users/seena/T-Rex Runner/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/expandedItems
+      fullPath: /Users/seena/T-Rex Runner/Library/expandedItems
+      projectPath: Library/expandedItems
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/gfu/cache/gituser.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gituser.yaml
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000001000000000000000
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000001000000000000000
+      projectPath: Library/metadata/00/00000000000000001000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000001000000000000000.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000001000000000000000.info
+      projectPath: Library/metadata/00/00000000000000001000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000002000000000000000
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000002000000000000000
+      projectPath: Library/metadata/00/00000000000000002000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000002000000000000000.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000002000000000000000.info
+      projectPath: Library/metadata/00/00000000000000002000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000003000000000000000
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000003000000000000000
+      projectPath: Library/metadata/00/00000000000000003000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000003000000000000000.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000003000000000000000.info
+      projectPath: Library/metadata/00/00000000000000003000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000004000000000000000
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000004000000000000000
+      projectPath: Library/metadata/00/00000000000000004000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000004000000000000000.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000004000000000000000.info
+      projectPath: Library/metadata/00/00000000000000004000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000004100000000000000
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000004100000000000000
+      projectPath: Library/metadata/00/00000000000000004100000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000004100000000000000.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000004100000000000000.info
+      projectPath: Library/metadata/00/00000000000000004100000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000005000000000000000
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000005000000000000000
+      projectPath: Library/metadata/00/00000000000000005000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000005000000000000000.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000005000000000000000.info
+      projectPath: Library/metadata/00/00000000000000005000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000005100000000000000
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000005100000000000000
+      projectPath: Library/metadata/00/00000000000000005100000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000005100000000000000.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000005100000000000000.info
+      projectPath: Library/metadata/00/00000000000000005100000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000006000000000000000
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000006000000000000000
+      projectPath: Library/metadata/00/00000000000000006000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000006000000000000000.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000006000000000000000.info
+      projectPath: Library/metadata/00/00000000000000006000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000006100000000000000
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000006100000000000000
+      projectPath: Library/metadata/00/00000000000000006100000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000006100000000000000.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000006100000000000000.info
+      projectPath: Library/metadata/00/00000000000000006100000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000007000000000000000
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000007000000000000000
+      projectPath: Library/metadata/00/00000000000000007000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000007000000000000000.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000007000000000000000.info
+      projectPath: Library/metadata/00/00000000000000007000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000007100000000000000
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000007100000000000000
+      projectPath: Library/metadata/00/00000000000000007100000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000007100000000000000.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000007100000000000000.info
+      projectPath: Library/metadata/00/00000000000000007100000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000008000000000000000
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000008000000000000000
+      projectPath: Library/metadata/00/00000000000000008000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000008000000000000000.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000008000000000000000.info
+      projectPath: Library/metadata/00/00000000000000008000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000009000000000000000
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000009000000000000000
+      projectPath: Library/metadata/00/00000000000000009000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/00000000000000009000000000000000.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000009000000000000000.info
+      projectPath: Library/metadata/00/00000000000000009000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/0000000000000000a000000000000000
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/0000000000000000a000000000000000
+      projectPath: Library/metadata/00/0000000000000000a000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/0000000000000000a000000000000000.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/0000000000000000a000000000000000.info
+      projectPath: Library/metadata/00/0000000000000000a000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/0000000000000000a100000000000000
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/0000000000000000a100000000000000
+      projectPath: Library/metadata/00/0000000000000000a100000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/0000000000000000a100000000000000.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/0000000000000000a100000000000000.info
+      projectPath: Library/metadata/00/0000000000000000a100000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/0000000000000000b000000000000000
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/0000000000000000b000000000000000
+      projectPath: Library/metadata/00/0000000000000000b000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/0000000000000000b000000000000000.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/0000000000000000b000000000000000.info
+      projectPath: Library/metadata/00/0000000000000000b000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/0000000000000000c000000000000000
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/0000000000000000c000000000000000
+      projectPath: Library/metadata/00/0000000000000000c000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/00/0000000000000000c000000000000000.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/0000000000000000c000000000000000.info
+      projectPath: Library/metadata/00/0000000000000000c000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
+      projectPath: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9.info
+      projectPath: Library/metadata/01/0188ec438976e5849b40a2c1ce5f20f9.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/06/0621b4aab2236437592f1f292cb81d20
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/06/0621b4aab2236437592f1f292cb81d20
+      projectPath: Library/metadata/06/0621b4aab2236437592f1f292cb81d20
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/06/0621b4aab2236437592f1f292cb81d20.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/06/0621b4aab2236437592f1f292cb81d20.info
+      projectPath: Library/metadata/06/0621b4aab2236437592f1f292cb81d20.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/0d/0d3bb855445e36e479c85976fc88383a
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/0d/0d3bb855445e36e479c85976fc88383a
+      projectPath: Library/metadata/0d/0d3bb855445e36e479c85976fc88383a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/0d/0d3bb855445e36e479c85976fc88383a.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/0d/0d3bb855445e36e479c85976fc88383a.info
+      projectPath: Library/metadata/0d/0d3bb855445e36e479c85976fc88383a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/0f/0f9333be5d61c4f0987e801057835595
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/0f/0f9333be5d61c4f0987e801057835595
+      projectPath: Library/metadata/0f/0f9333be5d61c4f0987e801057835595
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/0f/0f9333be5d61c4f0987e801057835595.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/0f/0f9333be5d61c4f0987e801057835595.info
+      projectPath: Library/metadata/0f/0f9333be5d61c4f0987e801057835595.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/0f/0fd9b3004eb3b4436a82f79c0ca0d76f
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/0f/0fd9b3004eb3b4436a82f79c0ca0d76f
+      projectPath: Library/metadata/0f/0fd9b3004eb3b4436a82f79c0ca0d76f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/0f/0fd9b3004eb3b4436a82f79c0ca0d76f.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/0f/0fd9b3004eb3b4436a82f79c0ca0d76f.info
+      projectPath: Library/metadata/0f/0fd9b3004eb3b4436a82f79c0ca0d76f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/10/10bf81265ad87424d946598c575f45a0
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/10/10bf81265ad87424d946598c575f45a0
+      projectPath: Library/metadata/10/10bf81265ad87424d946598c575f45a0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/10/10bf81265ad87424d946598c575f45a0.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/10/10bf81265ad87424d946598c575f45a0.info
+      projectPath: Library/metadata/10/10bf81265ad87424d946598c575f45a0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333
+      projectPath: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333.info
+      projectPath: Library/metadata/12/12fd8a0055b84bb59e84c9835a37e333.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/13/1322fd896bbb15bb6e335591b766ae62
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/13/1322fd896bbb15bb6e335591b766ae62
+      projectPath: Library/metadata/13/1322fd896bbb15bb6e335591b766ae62
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/13/1322fd896bbb15bb6e335591b766ae62.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/13/1322fd896bbb15bb6e335591b766ae62.info
+      projectPath: Library/metadata/13/1322fd896bbb15bb6e335591b766ae62.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/13/136dc24f151211d438acee17aff4e934
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/13/136dc24f151211d438acee17aff4e934
+      projectPath: Library/metadata/13/136dc24f151211d438acee17aff4e934
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/13/136dc24f151211d438acee17aff4e934.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/13/136dc24f151211d438acee17aff4e934.info
+      projectPath: Library/metadata/13/136dc24f151211d438acee17aff4e934.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/14/1404afef655b1ce49bfa0ef83799bf50
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/14/1404afef655b1ce49bfa0ef83799bf50
+      projectPath: Library/metadata/14/1404afef655b1ce49bfa0ef83799bf50
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/14/1404afef655b1ce49bfa0ef83799bf50.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/14/1404afef655b1ce49bfa0ef83799bf50.info
+      projectPath: Library/metadata/14/1404afef655b1ce49bfa0ef83799bf50.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/15/151a1d946b98deb4b98445400983ba92
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/15/151a1d946b98deb4b98445400983ba92
+      projectPath: Library/metadata/15/151a1d946b98deb4b98445400983ba92
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/15/151a1d946b98deb4b98445400983ba92.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/15/151a1d946b98deb4b98445400983ba92.info
+      projectPath: Library/metadata/15/151a1d946b98deb4b98445400983ba92.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/15/15be9c691b85a41a39c18beeff87e21b
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/15/15be9c691b85a41a39c18beeff87e21b
+      projectPath: Library/metadata/15/15be9c691b85a41a39c18beeff87e21b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/15/15be9c691b85a41a39c18beeff87e21b.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/15/15be9c691b85a41a39c18beeff87e21b.info
+      projectPath: Library/metadata/15/15be9c691b85a41a39c18beeff87e21b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/15/15bf9c691b85b41a39c18bee2f87e21b
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/15/15bf9c691b85b41a39c18bee2f87e21b
+      projectPath: Library/metadata/15/15bf9c691b85b41a39c18bee2f87e21b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/15/15bf9c691b85b41a39c18bee2f87e21b.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/15/15bf9c691b85b41a39c18bee2f87e21b.info
+      projectPath: Library/metadata/15/15bf9c691b85b41a39c18bee2f87e21b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
+      projectPath: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d.info
+      projectPath: Library/metadata/15/15ca2bebf173f2d4484686a03a45b56d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/17/17479763ad5ae438bb54b52453b1a106
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/17/17479763ad5ae438bb54b52453b1a106
+      projectPath: Library/metadata/17/17479763ad5ae438bb54b52453b1a106
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/17/17479763ad5ae438bb54b52453b1a106.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/17/17479763ad5ae438bb54b52453b1a106.info
+      projectPath: Library/metadata/17/17479763ad5ae438bb54b52453b1a106.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5
+      projectPath: Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5.info
+      projectPath: Library/metadata/1b/1b32bcce201b4494ea8848326290c5d5.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4
+      projectPath: Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4.info
+      projectPath: Library/metadata/1b/1bf89c9fbca28724a8d8fbcf427c47f4.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77
+      projectPath: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77.info
+      projectPath: Library/metadata/1c/1c6d1fbb51834b64847b1b73a75bfc77.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/1c/1c9ebd4e79f734be9b7a25707a93415f
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/1c/1c9ebd4e79f734be9b7a25707a93415f
+      projectPath: Library/metadata/1c/1c9ebd4e79f734be9b7a25707a93415f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/1c/1c9ebd4e79f734be9b7a25707a93415f.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/1c/1c9ebd4e79f734be9b7a25707a93415f.info
+      projectPath: Library/metadata/1c/1c9ebd4e79f734be9b7a25707a93415f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db
+      projectPath: Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db.info
+      projectPath: Library/metadata/21/21206c65839f84d0e9ae14bc1fdc68db.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1
+      projectPath: Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1.info
+      projectPath: Library/metadata/21/21eff446d50eaf44a85985cd4c0b6fa1.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/22/220224b43fc464c28bc0e8de8f54a432
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/22/220224b43fc464c28bc0e8de8f54a432
+      projectPath: Library/metadata/22/220224b43fc464c28bc0e8de8f54a432
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/22/220224b43fc464c28bc0e8de8f54a432.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/22/220224b43fc464c28bc0e8de8f54a432.info
+      projectPath: Library/metadata/22/220224b43fc464c28bc0e8de8f54a432.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05
+      projectPath: Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05.info
+      projectPath: Library/metadata/22/224ede67b4f3a4109bfec4d5cb161b05.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/23/23c8bee69b591054094d32918f98facd
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/23/23c8bee69b591054094d32918f98facd
+      projectPath: Library/metadata/23/23c8bee69b591054094d32918f98facd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/23/23c8bee69b591054094d32918f98facd.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/23/23c8bee69b591054094d32918f98facd.info
+      projectPath: Library/metadata/23/23c8bee69b591054094d32918f98facd.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/26/2682a692a2be7e14e901a738c7806da0
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/26/2682a692a2be7e14e901a738c7806da0
+      projectPath: Library/metadata/26/2682a692a2be7e14e901a738c7806da0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/26/2682a692a2be7e14e901a738c7806da0.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/26/2682a692a2be7e14e901a738c7806da0.info
+      projectPath: Library/metadata/26/2682a692a2be7e14e901a738c7806da0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/27/27a3fc7b0656c4d8e97ec9f676bb8077
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/27/27a3fc7b0656c4d8e97ec9f676bb8077
+      projectPath: Library/metadata/27/27a3fc7b0656c4d8e97ec9f676bb8077
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/27/27a3fc7b0656c4d8e97ec9f676bb8077.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/27/27a3fc7b0656c4d8e97ec9f676bb8077.info
+      projectPath: Library/metadata/27/27a3fc7b0656c4d8e97ec9f676bb8077.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/28/282cef8cdec224b638025c0049a1671c
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/28/282cef8cdec224b638025c0049a1671c
+      projectPath: Library/metadata/28/282cef8cdec224b638025c0049a1671c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/28/282cef8cdec224b638025c0049a1671c.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/28/282cef8cdec224b638025c0049a1671c.info
+      projectPath: Library/metadata/28/282cef8cdec224b638025c0049a1671c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/28/2875b219c1e2b614b9d48fd967ca0291
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/28/2875b219c1e2b614b9d48fd967ca0291
+      projectPath: Library/metadata/28/2875b219c1e2b614b9d48fd967ca0291
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/28/2875b219c1e2b614b9d48fd967ca0291.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/28/2875b219c1e2b614b9d48fd967ca0291.info
+      projectPath: Library/metadata/28/2875b219c1e2b614b9d48fd967ca0291.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/2d/2d4d46c70fdd242668a56e99799e8540
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/2d/2d4d46c70fdd242668a56e99799e8540
+      projectPath: Library/metadata/2d/2d4d46c70fdd242668a56e99799e8540
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/2d/2d4d46c70fdd242668a56e99799e8540.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/2d/2d4d46c70fdd242668a56e99799e8540.info
+      projectPath: Library/metadata/2d/2d4d46c70fdd242668a56e99799e8540.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/2f/2fe1fa36fcbf5480c8bdb9844b333db7
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/2f/2fe1fa36fcbf5480c8bdb9844b333db7
+      projectPath: Library/metadata/2f/2fe1fa36fcbf5480c8bdb9844b333db7
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/2f/2fe1fa36fcbf5480c8bdb9844b333db7.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/2f/2fe1fa36fcbf5480c8bdb9844b333db7.info
+      projectPath: Library/metadata/2f/2fe1fa36fcbf5480c8bdb9844b333db7.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/32/32188fd89022c154c81befa2f0e00be0
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/32/32188fd89022c154c81befa2f0e00be0
+      projectPath: Library/metadata/32/32188fd89022c154c81befa2f0e00be0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/32/32188fd89022c154c81befa2f0e00be0.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/32/32188fd89022c154c81befa2f0e00be0.info
+      projectPath: Library/metadata/32/32188fd89022c154c81befa2f0e00be0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9
+      projectPath: Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9.info
+      projectPath: Library/metadata/32/328cc881519068e4eb7db4bb907ad2d9.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/33/33d1f4a6b0836431b80c66ee7a489821
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/33/33d1f4a6b0836431b80c66ee7a489821
+      projectPath: Library/metadata/33/33d1f4a6b0836431b80c66ee7a489821
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/33/33d1f4a6b0836431b80c66ee7a489821.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/33/33d1f4a6b0836431b80c66ee7a489821.info
+      projectPath: Library/metadata/33/33d1f4a6b0836431b80c66ee7a489821.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/34/342ebfa2c8e06a24c8b445cf2f2d9784
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/34/342ebfa2c8e06a24c8b445cf2f2d9784
+      projectPath: Library/metadata/34/342ebfa2c8e06a24c8b445cf2f2d9784
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/34/342ebfa2c8e06a24c8b445cf2f2d9784.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/34/342ebfa2c8e06a24c8b445cf2f2d9784.info
+      projectPath: Library/metadata/34/342ebfa2c8e06a24c8b445cf2f2d9784.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/34/349a2940a5f0bb2428b4689b369e3b60
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/34/349a2940a5f0bb2428b4689b369e3b60
+      projectPath: Library/metadata/34/349a2940a5f0bb2428b4689b369e3b60
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/34/349a2940a5f0bb2428b4689b369e3b60.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/34/349a2940a5f0bb2428b4689b369e3b60.info
+      projectPath: Library/metadata/34/349a2940a5f0bb2428b4689b369e3b60.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/35/3510406a1661c450ea46a5b72920da5a
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/35/3510406a1661c450ea46a5b72920da5a
+      projectPath: Library/metadata/35/3510406a1661c450ea46a5b72920da5a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/35/3510406a1661c450ea46a5b72920da5a.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/35/3510406a1661c450ea46a5b72920da5a.info
+      projectPath: Library/metadata/35/3510406a1661c450ea46a5b72920da5a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/36/36e8bb3feb5e6402185947b817a6ed8d
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/36/36e8bb3feb5e6402185947b817a6ed8d
+      projectPath: Library/metadata/36/36e8bb3feb5e6402185947b817a6ed8d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/36/36e8bb3feb5e6402185947b817a6ed8d.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/36/36e8bb3feb5e6402185947b817a6ed8d.info
+      projectPath: Library/metadata/36/36e8bb3feb5e6402185947b817a6ed8d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/36/36f73b0d4842ba7448027c0215f522b1
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/36/36f73b0d4842ba7448027c0215f522b1
+      projectPath: Library/metadata/36/36f73b0d4842ba7448027c0215f522b1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/36/36f73b0d4842ba7448027c0215f522b1.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/36/36f73b0d4842ba7448027c0215f522b1.info
+      projectPath: Library/metadata/36/36f73b0d4842ba7448027c0215f522b1.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc
+      projectPath: Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc.info
+      projectPath: Library/metadata/38/38c8faf1788024c02930a0c68a6e0edc.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a
+      projectPath: Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a.info
+      projectPath: Library/metadata/3a/3a84de5cd0624681b6b6dcd8921d912a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/3c/3c65f4da6e071492d9b9a074ae348c0a
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/3c/3c65f4da6e071492d9b9a074ae348c0a
+      projectPath: Library/metadata/3c/3c65f4da6e071492d9b9a074ae348c0a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/3c/3c65f4da6e071492d9b9a074ae348c0a.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/3c/3c65f4da6e071492d9b9a074ae348c0a.info
+      projectPath: Library/metadata/3c/3c65f4da6e071492d9b9a074ae348c0a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/3c/3cebe1a96232b44388b30b2f72dde434
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/3c/3cebe1a96232b44388b30b2f72dde434
+      projectPath: Library/metadata/3c/3cebe1a96232b44388b30b2f72dde434
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/3c/3cebe1a96232b44388b30b2f72dde434.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/3c/3cebe1a96232b44388b30b2f72dde434.info
+      projectPath: Library/metadata/3c/3cebe1a96232b44388b30b2f72dde434.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/3d/3d8b74ccfc704450b8ef4539cbe71ce9
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/3d/3d8b74ccfc704450b8ef4539cbe71ce9
+      projectPath: Library/metadata/3d/3d8b74ccfc704450b8ef4539cbe71ce9
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/3d/3d8b74ccfc704450b8ef4539cbe71ce9.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/3d/3d8b74ccfc704450b8ef4539cbe71ce9.info
+      projectPath: Library/metadata/3d/3d8b74ccfc704450b8ef4539cbe71ce9.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/3e/3ef771d7505b84a82a5804ef6cdcc637
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/3e/3ef771d7505b84a82a5804ef6cdcc637
+      projectPath: Library/metadata/3e/3ef771d7505b84a82a5804ef6cdcc637
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/3e/3ef771d7505b84a82a5804ef6cdcc637.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/3e/3ef771d7505b84a82a5804ef6cdcc637.info
+      projectPath: Library/metadata/3e/3ef771d7505b84a82a5804ef6cdcc637.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/40/405b9b51bb344a128608d968297df79c
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/40/405b9b51bb344a128608d968297df79c
+      projectPath: Library/metadata/40/405b9b51bb344a128608d968297df79c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/40/405b9b51bb344a128608d968297df79c.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/40/405b9b51bb344a128608d968297df79c.info
+      projectPath: Library/metadata/40/405b9b51bb344a128608d968297df79c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/41/4113173d5e95493ab8765d7b08371de4
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/41/4113173d5e95493ab8765d7b08371de4
+      projectPath: Library/metadata/41/4113173d5e95493ab8765d7b08371de4
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/41/4113173d5e95493ab8765d7b08371de4.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/41/4113173d5e95493ab8765d7b08371de4.info
+      projectPath: Library/metadata/41/4113173d5e95493ab8765d7b08371de4.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/44/44f39a74ca5ee4bf5936b17e901f251c
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/44/44f39a74ca5ee4bf5936b17e901f251c
+      projectPath: Library/metadata/44/44f39a74ca5ee4bf5936b17e901f251c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/44/44f39a74ca5ee4bf5936b17e901f251c.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/44/44f39a74ca5ee4bf5936b17e901f251c.info
+      projectPath: Library/metadata/44/44f39a74ca5ee4bf5936b17e901f251c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/45/453f100e6bdae4dfd9e655927819dc85
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/45/453f100e6bdae4dfd9e655927819dc85
+      projectPath: Library/metadata/45/453f100e6bdae4dfd9e655927819dc85
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/45/453f100e6bdae4dfd9e655927819dc85.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/45/453f100e6bdae4dfd9e655927819dc85.info
+      projectPath: Library/metadata/45/453f100e6bdae4dfd9e655927819dc85.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/48/48986928cc2a449dbaecdd1654bc9bf6
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/48/48986928cc2a449dbaecdd1654bc9bf6
+      projectPath: Library/metadata/48/48986928cc2a449dbaecdd1654bc9bf6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/48/48986928cc2a449dbaecdd1654bc9bf6.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/48/48986928cc2a449dbaecdd1654bc9bf6.info
+      projectPath: Library/metadata/48/48986928cc2a449dbaecdd1654bc9bf6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
+      projectPath: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      projectPath: Library/metadata/48/48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/48/48c3887fd6d1a41f7877521cabd6e11e
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/48/48c3887fd6d1a41f7877521cabd6e11e
+      projectPath: Library/metadata/48/48c3887fd6d1a41f7877521cabd6e11e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/48/48c3887fd6d1a41f7877521cabd6e11e.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/48/48c3887fd6d1a41f7877521cabd6e11e.info
+      projectPath: Library/metadata/48/48c3887fd6d1a41f7877521cabd6e11e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/49/49438d74edb9540e694026cd1b2a34e6
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/49/49438d74edb9540e694026cd1b2a34e6
+      projectPath: Library/metadata/49/49438d74edb9540e694026cd1b2a34e6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/49/49438d74edb9540e694026cd1b2a34e6.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/49/49438d74edb9540e694026cd1b2a34e6.info
+      projectPath: Library/metadata/49/49438d74edb9540e694026cd1b2a34e6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70
+      projectPath: Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70.info
+      projectPath: Library/metadata/4a/4a3ecb1425d14502837abea459cf2b70.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8
+      projectPath: Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8.info
+      projectPath: Library/metadata/4b/4b3fa4bde7f1451a8218c03ee6a8ded8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f
+      projectPath: Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f.info
+      projectPath: Library/metadata/4b/4ba2329b63d54f0187bcaa12486b1b0f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/4c/4c4c3b70929834dfb910bb440a6e72f2
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/4c/4c4c3b70929834dfb910bb440a6e72f2
+      projectPath: Library/metadata/4c/4c4c3b70929834dfb910bb440a6e72f2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/4c/4c4c3b70929834dfb910bb440a6e72f2.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/4c/4c4c3b70929834dfb910bb440a6e72f2.info
+      projectPath: Library/metadata/4c/4c4c3b70929834dfb910bb440a6e72f2.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/4c/4c6fe94acbb24417c988bab18cbd5209
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/4c/4c6fe94acbb24417c988bab18cbd5209
+      projectPath: Library/metadata/4c/4c6fe94acbb24417c988bab18cbd5209
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/4c/4c6fe94acbb24417c988bab18cbd5209.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/4c/4c6fe94acbb24417c988bab18cbd5209.info
+      projectPath: Library/metadata/4c/4c6fe94acbb24417c988bab18cbd5209.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/4e/4e79dcf8b04884407982828741182984
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/4e/4e79dcf8b04884407982828741182984
+      projectPath: Library/metadata/4e/4e79dcf8b04884407982828741182984
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/4e/4e79dcf8b04884407982828741182984.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/4e/4e79dcf8b04884407982828741182984.info
+      projectPath: Library/metadata/4e/4e79dcf8b04884407982828741182984.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/4e/4e7c9ab97e5884e4eaa5967e9024f39c
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/4e/4e7c9ab97e5884e4eaa5967e9024f39c
+      projectPath: Library/metadata/4e/4e7c9ab97e5884e4eaa5967e9024f39c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/4e/4e7c9ab97e5884e4eaa5967e9024f39c.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/4e/4e7c9ab97e5884e4eaa5967e9024f39c.info
+      projectPath: Library/metadata/4e/4e7c9ab97e5884e4eaa5967e9024f39c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/4f/4f234578336894dc081edf696f2ff5f2
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/4f/4f234578336894dc081edf696f2ff5f2
+      projectPath: Library/metadata/4f/4f234578336894dc081edf696f2ff5f2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/4f/4f234578336894dc081edf696f2ff5f2.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/4f/4f234578336894dc081edf696f2ff5f2.info
+      projectPath: Library/metadata/4f/4f234578336894dc081edf696f2ff5f2.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/51/510d1d319d2754ea4a47c6dd8c421ea0
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/51/510d1d319d2754ea4a47c6dd8c421ea0
+      projectPath: Library/metadata/51/510d1d319d2754ea4a47c6dd8c421ea0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/51/510d1d319d2754ea4a47c6dd8c421ea0.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/51/510d1d319d2754ea4a47c6dd8c421ea0.info
+      projectPath: Library/metadata/51/510d1d319d2754ea4a47c6dd8c421ea0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/51/517af1b5b81b93b43b9745d58f017562
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/51/517af1b5b81b93b43b9745d58f017562
+      projectPath: Library/metadata/51/517af1b5b81b93b43b9745d58f017562
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/51/517af1b5b81b93b43b9745d58f017562.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/51/517af1b5b81b93b43b9745d58f017562.info
+      projectPath: Library/metadata/51/517af1b5b81b93b43b9745d58f017562.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/53/5338f515ccc0e49778a96b97052c8486
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/53/5338f515ccc0e49778a96b97052c8486
+      projectPath: Library/metadata/53/5338f515ccc0e49778a96b97052c8486
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/53/5338f515ccc0e49778a96b97052c8486.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/53/5338f515ccc0e49778a96b97052c8486.info
+      projectPath: Library/metadata/53/5338f515ccc0e49778a96b97052c8486.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1
+      projectPath: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+      projectPath: Library/metadata/53/53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc
+      projectPath: Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc.info
+      projectPath: Library/metadata/57/5782f9e9e6e0bb94bac99aeea24814fc.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/57/57b794c383e934b279f04d5066e95ef0
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/57/57b794c383e934b279f04d5066e95ef0
+      projectPath: Library/metadata/57/57b794c383e934b279f04d5066e95ef0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/57/57b794c383e934b279f04d5066e95ef0.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/57/57b794c383e934b279f04d5066e95ef0.info
+      projectPath: Library/metadata/57/57b794c383e934b279f04d5066e95ef0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/59/598f7cc167e65424284e573aff0f1294
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/59/598f7cc167e65424284e573aff0f1294
+      projectPath: Library/metadata/59/598f7cc167e65424284e573aff0f1294
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/59/598f7cc167e65424284e573aff0f1294.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/59/598f7cc167e65424284e573aff0f1294.info
+      projectPath: Library/metadata/59/598f7cc167e65424284e573aff0f1294.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+      projectPath: Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7.info
+      projectPath: Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/62/62772aad98ed04f0d955b7d20de61f7f
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/62/62772aad98ed04f0d955b7d20de61f7f
+      projectPath: Library/metadata/62/62772aad98ed04f0d955b7d20de61f7f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/62/62772aad98ed04f0d955b7d20de61f7f.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/62/62772aad98ed04f0d955b7d20de61f7f.info
+      projectPath: Library/metadata/62/62772aad98ed04f0d955b7d20de61f7f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/62/629de144b749d4e83bec2691e61ce6cd
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/62/629de144b749d4e83bec2691e61ce6cd
+      projectPath: Library/metadata/62/629de144b749d4e83bec2691e61ce6cd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/62/629de144b749d4e83bec2691e61ce6cd.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/62/629de144b749d4e83bec2691e61ce6cd.info
+      projectPath: Library/metadata/62/629de144b749d4e83bec2691e61ce6cd.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/63/636d33ae594884e7d80b569f429d245d
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/63/636d33ae594884e7d80b569f429d245d
+      projectPath: Library/metadata/63/636d33ae594884e7d80b569f429d245d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/63/636d33ae594884e7d80b569f429d245d.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/63/636d33ae594884e7d80b569f429d245d.info
+      projectPath: Library/metadata/63/636d33ae594884e7d80b569f429d245d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/65/6597c6ea86d36477081342001145d8d9
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/65/6597c6ea86d36477081342001145d8d9
+      projectPath: Library/metadata/65/6597c6ea86d36477081342001145d8d9
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/65/6597c6ea86d36477081342001145d8d9.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/65/6597c6ea86d36477081342001145d8d9.info
+      projectPath: Library/metadata/65/6597c6ea86d36477081342001145d8d9.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25
+      projectPath: Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25.info
+      projectPath: Library/metadata/67/67a48bef50c8f384ab614ca4fd2f1d25.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5
+      projectPath: Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5.info
+      projectPath: Library/metadata/6a/6a10b2909283487f913b00d94cd3faf5.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/6d/6daa66f23a1e5324caec116fb03ca529
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/6d/6daa66f23a1e5324caec116fb03ca529
+      projectPath: Library/metadata/6d/6daa66f23a1e5324caec116fb03ca529
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/6d/6daa66f23a1e5324caec116fb03ca529.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/6d/6daa66f23a1e5324caec116fb03ca529.info
+      projectPath: Library/metadata/6d/6daa66f23a1e5324caec116fb03ca529.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/6e/6e7c8cfeedae74eb3a562055e069e441
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/6e/6e7c8cfeedae74eb3a562055e069e441
+      projectPath: Library/metadata/6e/6e7c8cfeedae74eb3a562055e069e441
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/6e/6e7c8cfeedae74eb3a562055e069e441.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/6e/6e7c8cfeedae74eb3a562055e069e441.info
+      projectPath: Library/metadata/6e/6e7c8cfeedae74eb3a562055e069e441.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/75/75799de484ac4f4cadc268d2cbea830a
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/75/75799de484ac4f4cadc268d2cbea830a
+      projectPath: Library/metadata/75/75799de484ac4f4cadc268d2cbea830a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/75/75799de484ac4f4cadc268d2cbea830a.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/75/75799de484ac4f4cadc268d2cbea830a.info
+      projectPath: Library/metadata/75/75799de484ac4f4cadc268d2cbea830a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/76/76349cec627454d3a80423a2eeaf0e63
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/76/76349cec627454d3a80423a2eeaf0e63
+      projectPath: Library/metadata/76/76349cec627454d3a80423a2eeaf0e63
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/76/76349cec627454d3a80423a2eeaf0e63.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/76/76349cec627454d3a80423a2eeaf0e63.info
+      projectPath: Library/metadata/76/76349cec627454d3a80423a2eeaf0e63.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/76/7668179ede524d6396c8b7d84461ea29
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/76/7668179ede524d6396c8b7d84461ea29
+      projectPath: Library/metadata/76/7668179ede524d6396c8b7d84461ea29
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/76/7668179ede524d6396c8b7d84461ea29.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/76/7668179ede524d6396c8b7d84461ea29.info
+      projectPath: Library/metadata/76/7668179ede524d6396c8b7d84461ea29.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/77/771510c900aee4e3abb35f053f10722e
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/77/771510c900aee4e3abb35f053f10722e
+      projectPath: Library/metadata/77/771510c900aee4e3abb35f053f10722e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/77/771510c900aee4e3abb35f053f10722e.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/77/771510c900aee4e3abb35f053f10722e.info
+      projectPath: Library/metadata/77/771510c900aee4e3abb35f053f10722e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
+      projectPath: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/79/790749ba7e4b18141953e39cb13f1b79.info
+      projectPath: Library/metadata/79/790749ba7e4b18141953e39cb13f1b79.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/79/7927683d1fc5848b5abfb54ebb1028ec
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/79/7927683d1fc5848b5abfb54ebb1028ec
+      projectPath: Library/metadata/79/7927683d1fc5848b5abfb54ebb1028ec
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/79/7927683d1fc5848b5abfb54ebb1028ec.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/79/7927683d1fc5848b5abfb54ebb1028ec.info
+      projectPath: Library/metadata/79/7927683d1fc5848b5abfb54ebb1028ec.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/7c/7c3a5d6e39b874f468b2691537168513
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/7c/7c3a5d6e39b874f468b2691537168513
+      projectPath: Library/metadata/7c/7c3a5d6e39b874f468b2691537168513
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/7c/7c3a5d6e39b874f468b2691537168513.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/7c/7c3a5d6e39b874f468b2691537168513.info
+      projectPath: Library/metadata/7c/7c3a5d6e39b874f468b2691537168513.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/7c/7cc881bea450edc4ca7114e23fad3cee
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/7c/7cc881bea450edc4ca7114e23fad3cee
+      projectPath: Library/metadata/7c/7cc881bea450edc4ca7114e23fad3cee
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/7c/7cc881bea450edc4ca7114e23fad3cee.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/7c/7cc881bea450edc4ca7114e23fad3cee.info
+      projectPath: Library/metadata/7c/7cc881bea450edc4ca7114e23fad3cee.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/7f/7fd5e77e7e7ea4eea8198138cd9cc814
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/7f/7fd5e77e7e7ea4eea8198138cd9cc814
+      projectPath: Library/metadata/7f/7fd5e77e7e7ea4eea8198138cd9cc814
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/7f/7fd5e77e7e7ea4eea8198138cd9cc814.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/7f/7fd5e77e7e7ea4eea8198138cd9cc814.info
+      projectPath: Library/metadata/7f/7fd5e77e7e7ea4eea8198138cd9cc814.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+      projectPath: Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f.info
+      projectPath: Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/82/828f09a80f27540bf85dfb48af9fce27
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/82/828f09a80f27540bf85dfb48af9fce27
+      projectPath: Library/metadata/82/828f09a80f27540bf85dfb48af9fce27
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/82/828f09a80f27540bf85dfb48af9fce27.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/82/828f09a80f27540bf85dfb48af9fce27.info
+      projectPath: Library/metadata/82/828f09a80f27540bf85dfb48af9fce27.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/84/844f815391db42d49455cbf1a7bfc434
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/84/844f815391db42d49455cbf1a7bfc434
+      projectPath: Library/metadata/84/844f815391db42d49455cbf1a7bfc434
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/84/844f815391db42d49455cbf1a7bfc434.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/84/844f815391db42d49455cbf1a7bfc434.info
+      projectPath: Library/metadata/84/844f815391db42d49455cbf1a7bfc434.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/84/84aec3c9054b3402293139f2c0bc1029
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/84/84aec3c9054b3402293139f2c0bc1029
+      projectPath: Library/metadata/84/84aec3c9054b3402293139f2c0bc1029
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/84/84aec3c9054b3402293139f2c0bc1029.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/84/84aec3c9054b3402293139f2c0bc1029.info
+      projectPath: Library/metadata/84/84aec3c9054b3402293139f2c0bc1029.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/84/84fe1974b9bd44e30a10295c6f1ca34b
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/84/84fe1974b9bd44e30a10295c6f1ca34b
+      projectPath: Library/metadata/84/84fe1974b9bd44e30a10295c6f1ca34b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/84/84fe1974b9bd44e30a10295c6f1ca34b.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/84/84fe1974b9bd44e30a10295c6f1ca34b.info
+      projectPath: Library/metadata/84/84fe1974b9bd44e30a10295c6f1ca34b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/85/853cace4d6a11bc47b18d8c391da84bd
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/85/853cace4d6a11bc47b18d8c391da84bd
+      projectPath: Library/metadata/85/853cace4d6a11bc47b18d8c391da84bd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/85/853cace4d6a11bc47b18d8c391da84bd.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/85/853cace4d6a11bc47b18d8c391da84bd.info
+      projectPath: Library/metadata/85/853cace4d6a11bc47b18d8c391da84bd.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
+      projectPath: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8.info
+      projectPath: Library/metadata/86/868fbb4c41814baebc00f96e24ede2f8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/86/86c008322e7c647149878156c5b81940
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/86/86c008322e7c647149878156c5b81940
+      projectPath: Library/metadata/86/86c008322e7c647149878156c5b81940
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/86/86c008322e7c647149878156c5b81940.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/86/86c008322e7c647149878156c5b81940.info
+      projectPath: Library/metadata/86/86c008322e7c647149878156c5b81940.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/86/86c18994495874297b469aaa57ef9b44
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/86/86c18994495874297b469aaa57ef9b44
+      projectPath: Library/metadata/86/86c18994495874297b469aaa57ef9b44
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/86/86c18994495874297b469aaa57ef9b44.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/86/86c18994495874297b469aaa57ef9b44.info
+      projectPath: Library/metadata/86/86c18994495874297b469aaa57ef9b44.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+      projectPath: Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/87/870353891bb340e2b2a9c8707e7419ba.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba.info
+      projectPath: Library/metadata/87/870353891bb340e2b2a9c8707e7419ba.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/88/884f8f0e4025a420893d3a8d1d3063e1
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/88/884f8f0e4025a420893d3a8d1d3063e1
+      projectPath: Library/metadata/88/884f8f0e4025a420893d3a8d1d3063e1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/88/884f8f0e4025a420893d3a8d1d3063e1.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/88/884f8f0e4025a420893d3a8d1d3063e1.info
+      projectPath: Library/metadata/88/884f8f0e4025a420893d3a8d1d3063e1.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe
+      projectPath: Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe.info
+      projectPath: Library/metadata/8e/8e7066e382b0fc749b25dbb1a3004dfe.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/8f/8f2f351a8e27d429aa9e957fb7730b47
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/8f/8f2f351a8e27d429aa9e957fb7730b47
+      projectPath: Library/metadata/8f/8f2f351a8e27d429aa9e957fb7730b47
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/8f/8f2f351a8e27d429aa9e957fb7730b47.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/8f/8f2f351a8e27d429aa9e957fb7730b47.info
+      projectPath: Library/metadata/8f/8f2f351a8e27d429aa9e957fb7730b47.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/90/9078b7128e594410d9b89e5b24cffd01
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/90/9078b7128e594410d9b89e5b24cffd01
+      projectPath: Library/metadata/90/9078b7128e594410d9b89e5b24cffd01
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/90/9078b7128e594410d9b89e5b24cffd01.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/90/9078b7128e594410d9b89e5b24cffd01.info
+      projectPath: Library/metadata/90/9078b7128e594410d9b89e5b24cffd01.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/90/90791303b72ec4ae198f99d637dfdf6c
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/90/90791303b72ec4ae198f99d637dfdf6c
+      projectPath: Library/metadata/90/90791303b72ec4ae198f99d637dfdf6c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/90/90791303b72ec4ae198f99d637dfdf6c.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/90/90791303b72ec4ae198f99d637dfdf6c.info
+      projectPath: Library/metadata/90/90791303b72ec4ae198f99d637dfdf6c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/95/95ce0b8fc815a45aebce486e5f4a5050
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/95/95ce0b8fc815a45aebce486e5f4a5050
+      projectPath: Library/metadata/95/95ce0b8fc815a45aebce486e5f4a5050
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/95/95ce0b8fc815a45aebce486e5f4a5050.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/95/95ce0b8fc815a45aebce486e5f4a5050.info
+      projectPath: Library/metadata/95/95ce0b8fc815a45aebce486e5f4a5050.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/97/97bf4d281690b4c629c3dbfc4b7ecaac
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/97/97bf4d281690b4c629c3dbfc4b7ecaac
+      projectPath: Library/metadata/97/97bf4d281690b4c629c3dbfc4b7ecaac
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/97/97bf4d281690b4c629c3dbfc4b7ecaac.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/97/97bf4d281690b4c629c3dbfc4b7ecaac.info
+      projectPath: Library/metadata/97/97bf4d281690b4c629c3dbfc4b7ecaac.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/99/992d6165f35cd418bb7fece86c4a2e8f
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/99/992d6165f35cd418bb7fece86c4a2e8f
+      projectPath: Library/metadata/99/992d6165f35cd418bb7fece86c4a2e8f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/99/992d6165f35cd418bb7fece86c4a2e8f.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/99/992d6165f35cd418bb7fece86c4a2e8f.info
+      projectPath: Library/metadata/99/992d6165f35cd418bb7fece86c4a2e8f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+      projectPath: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45.info
+      projectPath: Library/metadata/99/99b48d4d4f6a66340ab06bd487d70a45.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/99/99ddb49592ff84811804420a1910cb89
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/99/99ddb49592ff84811804420a1910cb89
+      projectPath: Library/metadata/99/99ddb49592ff84811804420a1910cb89
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/99/99ddb49592ff84811804420a1910cb89.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/99/99ddb49592ff84811804420a1910cb89.info
+      projectPath: Library/metadata/99/99ddb49592ff84811804420a1910cb89.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/9b/9ba885971aea140ed8cecfa4d722f7ef
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/9b/9ba885971aea140ed8cecfa4d722f7ef
+      projectPath: Library/metadata/9b/9ba885971aea140ed8cecfa4d722f7ef
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/9b/9ba885971aea140ed8cecfa4d722f7ef.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/9b/9ba885971aea140ed8cecfa4d722f7ef.info
+      projectPath: Library/metadata/9b/9ba885971aea140ed8cecfa4d722f7ef.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/9c/9c2d9eb45a7ad4ccdb735a729f02405e
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/9c/9c2d9eb45a7ad4ccdb735a729f02405e
+      projectPath: Library/metadata/9c/9c2d9eb45a7ad4ccdb735a729f02405e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/9c/9c2d9eb45a7ad4ccdb735a729f02405e.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/9c/9c2d9eb45a7ad4ccdb735a729f02405e.info
+      projectPath: Library/metadata/9c/9c2d9eb45a7ad4ccdb735a729f02405e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/9d/9daaf345bfcca4a00b3cdb27df7261be
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/9d/9daaf345bfcca4a00b3cdb27df7261be
+      projectPath: Library/metadata/9d/9daaf345bfcca4a00b3cdb27df7261be
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/9d/9daaf345bfcca4a00b3cdb27df7261be.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/9d/9daaf345bfcca4a00b3cdb27df7261be.info
+      projectPath: Library/metadata/9d/9daaf345bfcca4a00b3cdb27df7261be.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9
+      projectPath: Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9.info
+      projectPath: Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/9f/9fba67e7244854ff5914fea2f95aacc3
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/9f/9fba67e7244854ff5914fea2f95aacc3
+      projectPath: Library/metadata/9f/9fba67e7244854ff5914fea2f95aacc3
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/9f/9fba67e7244854ff5914fea2f95aacc3.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/9f/9fba67e7244854ff5914fea2f95aacc3.info
+      projectPath: Library/metadata/9f/9fba67e7244854ff5914fea2f95aacc3.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+      projectPath: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13.info
+      projectPath: Library/metadata/a0/a0ded7adcc817ce489fec07977f16d13.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb
+      projectPath: Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb.info
+      projectPath: Library/metadata/a1/a1ae072c6d0a6fe42881de7c5c8d66eb.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/a3/a342381d77833427fa10621e38fbae10
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/a3/a342381d77833427fa10621e38fbae10
+      projectPath: Library/metadata/a3/a342381d77833427fa10621e38fbae10
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/a3/a342381d77833427fa10621e38fbae10.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/a3/a342381d77833427fa10621e38fbae10.info
+      projectPath: Library/metadata/a3/a342381d77833427fa10621e38fbae10.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/a3/a37e18887fa954edf92bc36bc353b879
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/a3/a37e18887fa954edf92bc36bc353b879
+      projectPath: Library/metadata/a3/a37e18887fa954edf92bc36bc353b879
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/a3/a37e18887fa954edf92bc36bc353b879.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/a3/a37e18887fa954edf92bc36bc353b879.info
+      projectPath: Library/metadata/a3/a37e18887fa954edf92bc36bc353b879.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/a5/a5c0e33a954ee4674840c9ffc69dc7c9
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/a5/a5c0e33a954ee4674840c9ffc69dc7c9
+      projectPath: Library/metadata/a5/a5c0e33a954ee4674840c9ffc69dc7c9
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/a5/a5c0e33a954ee4674840c9ffc69dc7c9.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/a5/a5c0e33a954ee4674840c9ffc69dc7c9.info
+      projectPath: Library/metadata/a5/a5c0e33a954ee4674840c9ffc69dc7c9.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/a6/a6842a74831964edc8fefa1c0aed89dc
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/a6/a6842a74831964edc8fefa1c0aed89dc
+      projectPath: Library/metadata/a6/a6842a74831964edc8fefa1c0aed89dc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/a6/a6842a74831964edc8fefa1c0aed89dc.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/a6/a6842a74831964edc8fefa1c0aed89dc.info
+      projectPath: Library/metadata/a6/a6842a74831964edc8fefa1c0aed89dc.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
+      projectPath: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231.info
+      projectPath: Library/metadata/a8/a83159a46d87d2a4f8cec651049b9231.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47
+      projectPath: Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47.info
+      projectPath: Library/metadata/ad/adab7787bd7d44c4a9d48b3aff189c47.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f
+      projectPath: Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f.info
+      projectPath: Library/metadata/ad/adebbd281f1a4ef3a30be7f21937e02f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e
+      projectPath: Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e.info
+      projectPath: Library/metadata/b2/b2b693dffac3a4433b3114fea0b7fd4e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70
+      projectPath: Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70.info
+      projectPath: Library/metadata/b2/b2bead50dbf86924f8e51f03ddbebf70.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b3/b32abd1c9d73a4cce8389f084ac12b11
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b3/b32abd1c9d73a4cce8389f084ac12b11
+      projectPath: Library/metadata/b3/b32abd1c9d73a4cce8389f084ac12b11
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b3/b32abd1c9d73a4cce8389f084ac12b11.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b3/b32abd1c9d73a4cce8389f084ac12b11.info
+      projectPath: Library/metadata/b3/b32abd1c9d73a4cce8389f084ac12b11.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b4/b455a70c012793a4d94fe976e18140af
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b4/b455a70c012793a4d94fe976e18140af
+      projectPath: Library/metadata/b4/b455a70c012793a4d94fe976e18140af
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b4/b455a70c012793a4d94fe976e18140af.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b4/b455a70c012793a4d94fe976e18140af.info
+      projectPath: Library/metadata/b4/b455a70c012793a4d94fe976e18140af.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b5/b52e557db2c2b4eebb10444f1d582029
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b5/b52e557db2c2b4eebb10444f1d582029
+      projectPath: Library/metadata/b5/b52e557db2c2b4eebb10444f1d582029
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b5/b52e557db2c2b4eebb10444f1d582029.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b5/b52e557db2c2b4eebb10444f1d582029.info
+      projectPath: Library/metadata/b5/b52e557db2c2b4eebb10444f1d582029.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b5/b5da970776034f77a070d99423d68791
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b5/b5da970776034f77a070d99423d68791
+      projectPath: Library/metadata/b5/b5da970776034f77a070d99423d68791
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b5/b5da970776034f77a070d99423d68791.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b5/b5da970776034f77a070d99423d68791.info
+      projectPath: Library/metadata/b5/b5da970776034f77a070d99423d68791.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b5/b5f4343795a0e4626ac1fe4a9e6fce59
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b5/b5f4343795a0e4626ac1fe4a9e6fce59
+      projectPath: Library/metadata/b5/b5f4343795a0e4626ac1fe4a9e6fce59
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b5/b5f4343795a0e4626ac1fe4a9e6fce59.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b5/b5f4343795a0e4626ac1fe4a9e6fce59.info
+      projectPath: Library/metadata/b5/b5f4343795a0e4626ac1fe4a9e6fce59.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b8/b80fb6f067bcb41569b767b3e76b492b
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b8/b80fb6f067bcb41569b767b3e76b492b
+      projectPath: Library/metadata/b8/b80fb6f067bcb41569b767b3e76b492b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b8/b80fb6f067bcb41569b767b3e76b492b.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b8/b80fb6f067bcb41569b767b3e76b492b.info
+      projectPath: Library/metadata/b8/b80fb6f067bcb41569b767b3e76b492b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b8/b88cae02c8fab6e47999b50827bb1530
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b8/b88cae02c8fab6e47999b50827bb1530
+      projectPath: Library/metadata/b8/b88cae02c8fab6e47999b50827bb1530
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b8/b88cae02c8fab6e47999b50827bb1530.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b8/b88cae02c8fab6e47999b50827bb1530.info
+      projectPath: Library/metadata/b8/b88cae02c8fab6e47999b50827bb1530.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7
+      projectPath: Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7.info
+      projectPath: Library/metadata/b8/b8a0574e92bd43a59e19d6c3c6ae54c7.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c
+      projectPath: Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c.info
+      projectPath: Library/metadata/ba/ba8ad3e6c5be01e448c1f3593515049c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/bc/bc9a5f6325c0832408624f471a6c1425
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/bc/bc9a5f6325c0832408624f471a6c1425
+      projectPath: Library/metadata/bc/bc9a5f6325c0832408624f471a6c1425
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/bc/bc9a5f6325c0832408624f471a6c1425.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/bc/bc9a5f6325c0832408624f471a6c1425.info
+      projectPath: Library/metadata/bc/bc9a5f6325c0832408624f471a6c1425.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/bc/bcd27da1c9ae94d2cafe094482a20792
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/bc/bcd27da1c9ae94d2cafe094482a20792
+      projectPath: Library/metadata/bc/bcd27da1c9ae94d2cafe094482a20792
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/bc/bcd27da1c9ae94d2cafe094482a20792.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/bc/bcd27da1c9ae94d2cafe094482a20792.info
+      projectPath: Library/metadata/bc/bcd27da1c9ae94d2cafe094482a20792.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/be/be0c5b827631e4eb8a72b3577ab5695f
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/be/be0c5b827631e4eb8a72b3577ab5695f
+      projectPath: Library/metadata/be/be0c5b827631e4eb8a72b3577ab5695f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/be/be0c5b827631e4eb8a72b3577ab5695f.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/be/be0c5b827631e4eb8a72b3577ab5695f.info
+      projectPath: Library/metadata/be/be0c5b827631e4eb8a72b3577ab5695f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/bf/bf6b02eea06021d42b25bb18536e3d4c
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/bf/bf6b02eea06021d42b25bb18536e3d4c
+      projectPath: Library/metadata/bf/bf6b02eea06021d42b25bb18536e3d4c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/bf/bf6b02eea06021d42b25bb18536e3d4c.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/bf/bf6b02eea06021d42b25bb18536e3d4c.info
+      projectPath: Library/metadata/bf/bf6b02eea06021d42b25bb18536e3d4c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/c0/c0c9a0b1c58ff45a095d4cea4e058f3b
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/c0/c0c9a0b1c58ff45a095d4cea4e058f3b
+      projectPath: Library/metadata/c0/c0c9a0b1c58ff45a095d4cea4e058f3b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/c0/c0c9a0b1c58ff45a095d4cea4e058f3b.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/c0/c0c9a0b1c58ff45a095d4cea4e058f3b.info
+      projectPath: Library/metadata/c0/c0c9a0b1c58ff45a095d4cea4e058f3b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/c1/c1eb0d289ecf9f34bbd08287ab6c2d87
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/c1/c1eb0d289ecf9f34bbd08287ab6c2d87
+      projectPath: Library/metadata/c1/c1eb0d289ecf9f34bbd08287ab6c2d87
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/c1/c1eb0d289ecf9f34bbd08287ab6c2d87.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/c1/c1eb0d289ecf9f34bbd08287ab6c2d87.info
+      projectPath: Library/metadata/c1/c1eb0d289ecf9f34bbd08287ab6c2d87.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba
+      projectPath: Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba.info
+      projectPath: Library/metadata/c4/c452c88a87f3d48ae945e7bcf1b4a6ba.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/c5/c5ba7626a737840ff88a3bd84b100482
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/c5/c5ba7626a737840ff88a3bd84b100482
+      projectPath: Library/metadata/c5/c5ba7626a737840ff88a3bd84b100482
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/c5/c5ba7626a737840ff88a3bd84b100482.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/c5/c5ba7626a737840ff88a3bd84b100482.info
+      projectPath: Library/metadata/c5/c5ba7626a737840ff88a3bd84b100482.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
+      projectPath: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/c5/c5c83d14802e712408f23409f3c59e26.info
+      projectPath: Library/metadata/c5/c5c83d14802e712408f23409f3c59e26.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/c6/c6d6cc705b2fa53448f26dd682a4a938
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/c6/c6d6cc705b2fa53448f26dd682a4a938
+      projectPath: Library/metadata/c6/c6d6cc705b2fa53448f26dd682a4a938
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/c6/c6d6cc705b2fa53448f26dd682a4a938.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/c6/c6d6cc705b2fa53448f26dd682a4a938.info
+      projectPath: Library/metadata/c6/c6d6cc705b2fa53448f26dd682a4a938.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
+      projectPath: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae.info
+      projectPath: Library/metadata/c7/c743ae24ee231884887054d20ccdd0ae.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288
+      projectPath: Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288.info
+      projectPath: Library/metadata/c7/c768acbc9cf24d398488bb4c93b91288.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/c9/c99bfe4fc4e5c4dc3917c14075acd117
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/c9/c99bfe4fc4e5c4dc3917c14075acd117
+      projectPath: Library/metadata/c9/c99bfe4fc4e5c4dc3917c14075acd117
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/c9/c99bfe4fc4e5c4dc3917c14075acd117.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/c9/c99bfe4fc4e5c4dc3917c14075acd117.info
+      projectPath: Library/metadata/c9/c99bfe4fc4e5c4dc3917c14075acd117.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506
+      projectPath: Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506.info
+      projectPath: Library/metadata/ca/ca9ef9f91d24fab40addaf0deaf60506.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ca/cad92998c5182496e8b989b406d9f156
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ca/cad92998c5182496e8b989b406d9f156
+      projectPath: Library/metadata/ca/cad92998c5182496e8b989b406d9f156
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ca/cad92998c5182496e8b989b406d9f156.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ca/cad92998c5182496e8b989b406d9f156.info
+      projectPath: Library/metadata/ca/cad92998c5182496e8b989b406d9f156.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/cc/cc1b50b5501f748da8bec762294d9136
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/cc/cc1b50b5501f748da8bec762294d9136
+      projectPath: Library/metadata/cc/cc1b50b5501f748da8bec762294d9136
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/cc/cc1b50b5501f748da8bec762294d9136.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/cc/cc1b50b5501f748da8bec762294d9136.info
+      projectPath: Library/metadata/cc/cc1b50b5501f748da8bec762294d9136.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ce/ce4395ccdb12cf62fca756358be1a892
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ce/ce4395ccdb12cf62fca756358be1a892
+      projectPath: Library/metadata/ce/ce4395ccdb12cf62fca756358be1a892
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ce/ce4395ccdb12cf62fca756358be1a892.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ce/ce4395ccdb12cf62fca756358be1a892.info
+      projectPath: Library/metadata/ce/ce4395ccdb12cf62fca756358be1a892.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ce/ce9ea53c1fb3a42e3821fab7bf59cd2d
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ce/ce9ea53c1fb3a42e3821fab7bf59cd2d
+      projectPath: Library/metadata/ce/ce9ea53c1fb3a42e3821fab7bf59cd2d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ce/ce9ea53c1fb3a42e3821fab7bf59cd2d.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ce/ce9ea53c1fb3a42e3821fab7bf59cd2d.info
+      projectPath: Library/metadata/ce/ce9ea53c1fb3a42e3821fab7bf59cd2d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/d1/d18d0a8c4d79f4a00a6296c32ac3daaf
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/d1/d18d0a8c4d79f4a00a6296c32ac3daaf
+      projectPath: Library/metadata/d1/d18d0a8c4d79f4a00a6296c32ac3daaf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/d1/d18d0a8c4d79f4a00a6296c32ac3daaf.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/d1/d18d0a8c4d79f4a00a6296c32ac3daaf.info
+      projectPath: Library/metadata/d1/d18d0a8c4d79f4a00a6296c32ac3daaf.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/d1/d1c1a2d988f5148fd9ab17b2460d271e
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/d1/d1c1a2d988f5148fd9ab17b2460d271e
+      projectPath: Library/metadata/d1/d1c1a2d988f5148fd9ab17b2460d271e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/d1/d1c1a2d988f5148fd9ab17b2460d271e.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/d1/d1c1a2d988f5148fd9ab17b2460d271e.info
+      projectPath: Library/metadata/d1/d1c1a2d988f5148fd9ab17b2460d271e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/d3/d301b02d403f0b14da47c02442ad3731
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/d3/d301b02d403f0b14da47c02442ad3731
+      projectPath: Library/metadata/d3/d301b02d403f0b14da47c02442ad3731
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/d3/d301b02d403f0b14da47c02442ad3731.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/d3/d301b02d403f0b14da47c02442ad3731.info
+      projectPath: Library/metadata/d3/d301b02d403f0b14da47c02442ad3731.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626
+      projectPath: Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626.info
+      projectPath: Library/metadata/d3/d33d54853fd0f48e0ac8a63ea91e6626.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
+      projectPath: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132.info
+      projectPath: Library/metadata/d5/d516f2a1bec6a9645a084ef8c9237132.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/d6/d607a67dc772b484da060e66a3d61a4e
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/d6/d607a67dc772b484da060e66a3d61a4e
+      projectPath: Library/metadata/d6/d607a67dc772b484da060e66a3d61a4e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/d6/d607a67dc772b484da060e66a3d61a4e.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/d6/d607a67dc772b484da060e66a3d61a4e.info
+      projectPath: Library/metadata/d6/d607a67dc772b484da060e66a3d61a4e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/d8/d874cb46909814897a3212b98dc9812c
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/d8/d874cb46909814897a3212b98dc9812c
+      projectPath: Library/metadata/d8/d874cb46909814897a3212b98dc9812c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/d8/d874cb46909814897a3212b98dc9812c.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/d8/d874cb46909814897a3212b98dc9812c.info
+      projectPath: Library/metadata/d8/d874cb46909814897a3212b98dc9812c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0
+      projectPath: Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0.info
+      projectPath: Library/metadata/d9/d91035c548f23744c9bfb107348ed1c0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/d9/d929147d9f78c487397abb40f2c257b0
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/d9/d929147d9f78c487397abb40f2c257b0
+      projectPath: Library/metadata/d9/d929147d9f78c487397abb40f2c257b0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/d9/d929147d9f78c487397abb40f2c257b0.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/d9/d929147d9f78c487397abb40f2c257b0.info
+      projectPath: Library/metadata/d9/d929147d9f78c487397abb40f2c257b0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb
+      projectPath: Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb.info
+      projectPath: Library/metadata/dc/dc443db3e92b4983b9738c1131f555cb.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/dc/dce91326f102345f3ba2f0987c0679c2
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/dc/dce91326f102345f3ba2f0987c0679c2
+      projectPath: Library/metadata/dc/dce91326f102345f3ba2f0987c0679c2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/dc/dce91326f102345f3ba2f0987c0679c2.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/dc/dce91326f102345f3ba2f0987c0679c2.info
+      projectPath: Library/metadata/dc/dce91326f102345f3ba2f0987c0679c2.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/dc/dced8f6ea9f964e8e8e61574ea889d21
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/dc/dced8f6ea9f964e8e8e61574ea889d21
+      projectPath: Library/metadata/dc/dced8f6ea9f964e8e8e61574ea889d21
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/dc/dced8f6ea9f964e8e8e61574ea889d21.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/dc/dced8f6ea9f964e8e8e61574ea889d21.info
+      projectPath: Library/metadata/dc/dced8f6ea9f964e8e8e61574ea889d21.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c
+      projectPath: Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c.info
+      projectPath: Library/metadata/dd/ddb8611e748af425a82a497ac5a98c0c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/e1/e1007cd261c84053beb0c3537782908d
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/e1/e1007cd261c84053beb0c3537782908d
+      projectPath: Library/metadata/e1/e1007cd261c84053beb0c3537782908d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/e1/e1007cd261c84053beb0c3537782908d.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/e1/e1007cd261c84053beb0c3537782908d.info
+      projectPath: Library/metadata/e1/e1007cd261c84053beb0c3537782908d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/e2/e25409678700b4fcea8562492cc16e00
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/e2/e25409678700b4fcea8562492cc16e00
+      projectPath: Library/metadata/e2/e25409678700b4fcea8562492cc16e00
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/e2/e25409678700b4fcea8562492cc16e00.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/e2/e25409678700b4fcea8562492cc16e00.info
+      projectPath: Library/metadata/e2/e25409678700b4fcea8562492cc16e00.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a
+      projectPath: Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a.info
+      projectPath: Library/metadata/e4/e4f4cf1b9b434137a499903a7a1d651a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/e6/e696dd438dbec45fca4f8c83fa15c238
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/e6/e696dd438dbec45fca4f8c83fa15c238
+      projectPath: Library/metadata/e6/e696dd438dbec45fca4f8c83fa15c238
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/e6/e696dd438dbec45fca4f8c83fa15c238.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/e6/e696dd438dbec45fca4f8c83fa15c238.info
+      projectPath: Library/metadata/e6/e696dd438dbec45fca4f8c83fa15c238.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680
+      projectPath: Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680.info
+      projectPath: Library/metadata/ea/ead147da21254ff9a0a936bdd75e1680.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395
+      projectPath: Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395.info
+      projectPath: Library/metadata/ec/ecfb28d906a32914d956497c8d3b3395.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea
+      projectPath: Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea.info
+      projectPath: Library/metadata/ed/ed7343f30e3843b3afda8f8b02669cea.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0
+      projectPath: Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0.info
+      projectPath: Library/metadata/ee/eeed6954b3c264ca0b28a92aa6289bf0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0
+      projectPath: Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0.info
+      projectPath: Library/metadata/f1/f1045c695c5bf4fb7b8509687bc60fc0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/f2/f28fcced5af094cf78eb4e1109a71981
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/f2/f28fcced5af094cf78eb4e1109a71981
+      projectPath: Library/metadata/f2/f28fcced5af094cf78eb4e1109a71981
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/f2/f28fcced5af094cf78eb4e1109a71981.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/f2/f28fcced5af094cf78eb4e1109a71981.info
+      projectPath: Library/metadata/f2/f28fcced5af094cf78eb4e1109a71981.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/f2/f2bf8a259dbe545bda73bceb0a841357
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/f2/f2bf8a259dbe545bda73bceb0a841357
+      projectPath: Library/metadata/f2/f2bf8a259dbe545bda73bceb0a841357
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/f2/f2bf8a259dbe545bda73bceb0a841357.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/f2/f2bf8a259dbe545bda73bceb0a841357.info
+      projectPath: Library/metadata/f2/f2bf8a259dbe545bda73bceb0a841357.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+      projectPath: Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8.info
+      projectPath: Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/f7/f70555f144d8491a825f0804e09c671c
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/f7/f70555f144d8491a825f0804e09c671c
+      projectPath: Library/metadata/f7/f70555f144d8491a825f0804e09c671c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/f7/f70555f144d8491a825f0804e09c671c.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/f7/f70555f144d8491a825f0804e09c671c.info
+      projectPath: Library/metadata/f7/f70555f144d8491a825f0804e09c671c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/f7/f7303afcda1b0435e9d50904db1580b0
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/f7/f7303afcda1b0435e9d50904db1580b0
+      projectPath: Library/metadata/f7/f7303afcda1b0435e9d50904db1580b0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/f7/f7303afcda1b0435e9d50904db1580b0.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/f7/f7303afcda1b0435e9d50904db1580b0.info
+      projectPath: Library/metadata/f7/f7303afcda1b0435e9d50904db1580b0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc
+      projectPath: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc.info
+      projectPath: Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
+      projectPath: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6.info
+      projectPath: Library/metadata/f9/f9fc9b08ecd899944adf9860b4abd6b6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
+      projectPath: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
+      projectPath: Library/metadata/fe/fe5abeadcbe591e4fa9107fbc02f3998.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/fe/fec197bad419341558f81f2ec8a05e18
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/fe/fec197bad419341558f81f2ec8a05e18
+      projectPath: Library/metadata/fe/fec197bad419341558f81f2ec8a05e18
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/metadata/fe/fec197bad419341558f81f2ec8a05e18.info
+      fullPath: /Users/seena/T-Rex Runner/Library/metadata/fe/fec197bad419341558f81f2ec8a05e18.info
+      projectPath: Library/metadata/fe/fec197bad419341558f81f2ec8a05e18.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/seena/T-Rex Runner/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/AudioManager.asset
+      fullPath: /Users/seena/T-Rex Runner/ProjectSettings/AudioManager.asset
+      projectPath: ProjectSettings/AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/ClusterInputManager.asset
+      fullPath: /Users/seena/T-Rex Runner/ProjectSettings/ClusterInputManager.asset
+      projectPath: ProjectSettings/ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/DynamicsManager.asset
+      fullPath: /Users/seena/T-Rex Runner/ProjectSettings/DynamicsManager.asset
+      projectPath: ProjectSettings/DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/EditorBuildSettings.asset
+      fullPath: /Users/seena/T-Rex Runner/ProjectSettings/EditorBuildSettings.asset
+      projectPath: ProjectSettings/EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/EditorSettings.asset
+      fullPath: /Users/seena/T-Rex Runner/ProjectSettings/EditorSettings.asset
+      projectPath: ProjectSettings/EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/GraphicsSettings.asset
+      fullPath: /Users/seena/T-Rex Runner/ProjectSettings/GraphicsSettings.asset
+      projectPath: ProjectSettings/GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/InputManager.asset
+      fullPath: /Users/seena/T-Rex Runner/ProjectSettings/InputManager.asset
+      projectPath: ProjectSettings/InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/NavMeshAreas.asset
+      fullPath: /Users/seena/T-Rex Runner/ProjectSettings/NavMeshAreas.asset
+      projectPath: ProjectSettings/NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/NetworkManager.asset
+      fullPath: /Users/seena/T-Rex Runner/ProjectSettings/NetworkManager.asset
+      projectPath: ProjectSettings/NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/Physics2DSettings.asset
+      fullPath: /Users/seena/T-Rex Runner/ProjectSettings/Physics2DSettings.asset
+      projectPath: ProjectSettings/Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/ProjectSettings.asset
+      fullPath: /Users/seena/T-Rex Runner/ProjectSettings/ProjectSettings.asset
+      projectPath: ProjectSettings/ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/ProjectVersion.txt
+      fullPath: /Users/seena/T-Rex Runner/ProjectSettings/ProjectVersion.txt
+      projectPath: ProjectSettings/ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/QualitySettings.asset
+      fullPath: /Users/seena/T-Rex Runner/ProjectSettings/QualitySettings.asset
+      projectPath: ProjectSettings/QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/TagManager.asset
+      fullPath: /Users/seena/T-Rex Runner/ProjectSettings/TagManager.asset
+      projectPath: ProjectSettings/TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/TimeManager.asset
+      fullPath: /Users/seena/T-Rex Runner/ProjectSettings/TimeManager.asset
+      projectPath: ProjectSettings/TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/UnityConnectSettings.asset
+      fullPath: /Users/seena/T-Rex Runner/ProjectSettings/UnityConnectSettings.asset
+      projectPath: ProjectSettings/UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: T-Rex Runner.sln
+      fullPath: /Users/seena/T-Rex Runner/T-Rex Runner.sln
+      projectPath: T-Rex Runner.sln
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp/UnityLockfile
+      fullPath: /Users/seena/T-Rex Runner/Temp/UnityLockfile
+      projectPath: Temp/UnityLockfile
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: UnityPackageManager/manifest.json
+      fullPath: /Users/seena/T-Rex Runner/UnityPackageManager/manifest.json
+      projectPath: UnityPackageManager/manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
