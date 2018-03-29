@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-03-29T11:24:03.3547770+01:00
-  initializedAtString: 2018-03-29T11:24:03.3547770+01:00
+  lastUpdatedAtString: 2018-03-29T19:28:57.3874890+01:00
+  initializedAtString: 2018-03-29T19:28:57.3874890+01:00
   currentGitRemote:
     name: origin
     url: https://github.com/seenashafai/T-Rex-Runner.git
@@ -24,13 +24,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: '[None]'
+    tracking: origin/master
     isActive: 1
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
+      name: origin
+      url: https://github.com/seenashafai/T-Rex-Runner.git
   currentConfigRemote:
     name: origin
     url: https://github.com/seenashafai/T-Rex-Runner.git

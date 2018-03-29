@@ -6,17 +6,14 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour {
 
 	public float movementSpeed = 10f;
+    float movement = 0f;
 
 	Rigidbody2D rb;
 
-	float movement = 0f;
-
-	// Use this for initialization
 	void Start () {
 		rb = GetComponent<Rigidbody2D>();
 	}
 
-	// Update is called once per frame
 	void Update () {
 		movement = Input.GetAxis("Horizontal") * movementSpeed;
 	}
@@ -28,8 +25,4 @@ public class PlayerMovement : MonoBehaviour {
 		rb.velocity = velocity;
 	}
 
-	private void OnCollisionEnter(Collision collision)
-	{
-        print(collision.collider.name);
-	}
 }
