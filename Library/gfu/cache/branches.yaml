@@ -12,13 +12,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-03-30T12:31:37.6797740+01:00
+  lastUpdatedAtString: 2018-03-30T12:57:35.3115640+01:00
   initializedAtString: 2018-03-30T12:31:37.6797740+01:00
   localBranches:
   - name: master
-    tracking: '[None]'
+    tracking: origin/master
     isActive: 1
-  remoteBranches: []
+  remoteBranches:
+  - name: origin/master
+    tracking: '[None]'
+    isActive: 0
   remotes:
   - name: origin
     url: https://github.com/seenashafai/T-Rex-Runner.git
@@ -33,12 +36,20 @@ MonoBehaviour:
     values:
     - name: master
       remote:
-        name: 
-        url: 
+        name: origin
+        url: https://github.com/seenashafai/T-Rex-Runner.git
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - master
+    subKeyValues:
+    - Values:
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/seenashafai/T-Rex-Runner.git
   configRemotes:
     keys:
     - origin
