@@ -12,9 +12,45 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-03-30T12:57:29.3142330+01:00
+  lastUpdatedAtString: 2018-03-30T12:58:40.4656480+01:00
   initializedAtString: 2018-03-30T12:57:29.3142330+01:00
   log:
+  - commitID: 68ca801069df4e600b772140125a4bd0a16d704e
+    mergeA: 
+    mergeB: 
+    authorName: seenashafai
+    authorEmail: seenas@btinternet.com
+    commitEmail: seenas@btinternet.com
+    commitName: seenashafai
+    summary: Github caches
+    description: Github caches
+    timeString: 2018-03-30T12:58:36.0000000+01:00
+    commitTimeString: 2018-03-30T12:58:36.0000000+01:00
+    changes:
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 1dd5f93584968f913adb57eb1372cde9cb8dbb0a
     mergeA: 
     mergeB: 

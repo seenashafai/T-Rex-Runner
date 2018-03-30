@@ -12,6 +12,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-03-30T12:57:29.1183530+01:00
+  lastUpdatedAtString: 2018-03-30T12:58:42.7146250+01:00
   initializedAtString: 2018-03-30T12:31:49.6823210+01:00
-  entries: []
+  entries:
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
