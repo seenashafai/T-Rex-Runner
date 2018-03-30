@@ -346,6 +346,7 @@
     <Compile Include="Assets\CactusGenerator.cs" />
     <Compile Include="Assets\CameraFollow.cs" />
     <Compile Include="Assets\CollisionDetection.cs" />
+    <Compile Include="Assets\GameOverMenu.cs" />
     <Compile Include="Assets\GroundGenerator.cs" />
     <Compile Include="Assets\Jump.cs" />
     <Compile Include="Assets\PlayerMovement.cs" />

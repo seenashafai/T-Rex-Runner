@@ -25,6 +25,7 @@ public class CollisionDetection : MonoBehaviour
 
     void gameOver()
     {
+        
         print("game over");
     }
 
