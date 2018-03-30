@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 0001-01-01T00:00:00.0000000+00:00
-  initializedAtString: 2018-03-30T13:44:13.3014010+01:00
+  lastUpdatedAtString: 2018-03-30T15:54:59.0147390+01:00
+  initializedAtString: 2018-03-30T15:16:07.4334130+01:00
   entries:
   - path: .vs/T-Rex Runner/xs/UserPrefs.xml
     fullPath: /Users/seena/T-Rex Runner/.vs/T-Rex Runner/xs/UserPrefs.xml
@@ -27,27 +27,21 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Assets/GameOverMenu.cs
+    fullPath: /Users/seena/T-Rex Runner/Assets/GameOverMenu.cs
+    projectPath: Assets/GameOverMenu.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Main.unity
+    fullPath: /Users/seena/T-Rex Runner/Assets/Main.unity
+    projectPath: Assets/Main.unity
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library/Collab/CollabSnapshot_905eb81e-5a67-4586-884c-29d3eb7003a8.txt
     fullPath: /Users/seena/T-Rex Runner/Library/Collab/CollabSnapshot_905eb81e-5a67-4586-884c-29d3eb7003a8.txt
     projectPath: Library/Collab/CollabSnapshot_905eb81e-5a67-4586-884c-29d3eb7003a8.txt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/CrashedAssetImports.txt
-    fullPath: /Users/seena/T-Rex Runner/Library/CrashedAssetImports.txt
-    projectPath: Library/CrashedAssetImports.txt
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library/EditorInstance.json
-    fullPath: /Users/seena/T-Rex Runner/Library/EditorInstance.json
-    projectPath: Library/EditorInstance.json
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/InspectorExpandedItems.asset
-    fullPath: /Users/seena/T-Rex Runner/Library/InspectorExpandedItems.asset
-    projectPath: Library/InspectorExpandedItems.asset
     originalPath: 
     status: 3
     staged: 0
@@ -63,12 +57,6 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    fullPath: /Users/seena/T-Rex Runner/Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    originalPath: 
-    status: 5
-    staged: 0
   - path: Library/assetDatabase3
     fullPath: /Users/seena/T-Rex Runner/Library/assetDatabase3
     projectPath: Library/assetDatabase3
@@ -78,12 +66,6 @@ MonoBehaviour:
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/gfu/cache/gitlog.yaml
-    fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gitlog.yaml
-    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -105,1773 +87,1755 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Library/metadata/2f/2f92d68bad4a3413986a3a301cd453d9
+    fullPath: /Users/seena/T-Rex Runner/Library/metadata/2f/2f92d68bad4a3413986a3a301cd453d9
+    projectPath: Library/metadata/2f/2f92d68bad4a3413986a3a301cd453d9
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library/metadata/7d/7ded599bae9984db288c148035b01d7b
     fullPath: /Users/seena/T-Rex Runner/Library/metadata/7d/7ded599bae9984db288c148035b01d7b
     projectPath: Library/metadata/7d/7ded599bae9984db288c148035b01d7b
     originalPath: 
     status: 3
     staged: 0
-  - path: T-Rex Runner.csproj
-    fullPath: /Users/seena/T-Rex Runner/T-Rex Runner.csproj
-    projectPath: T-Rex Runner.csproj
+  - path: Library/EditorInstance.json
+    fullPath: /Users/seena/T-Rex Runner/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Temp/UnityTempFile-0c5ee186057a64a5aa5a8091f1a8beb6
-    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-0c5ee186057a64a5aa5a8091f1a8beb6
-    projectPath: Temp/UnityTempFile-0c5ee186057a64a5aa5a8091f1a8beb6
+  - path: Temp/UnityLockfile
+    fullPath: /Users/seena/T-Rex Runner/Temp/UnityLockfile
+    projectPath: Temp/UnityLockfile
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
-  - path: Temp/UnityTempFile-12c6a0e44914b470582f5e7fc46f9497
-    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-12c6a0e44914b470582f5e7fc46f9497
-    projectPath: Temp/UnityTempFile-12c6a0e44914b470582f5e7fc46f9497
+  - path: Temp/UnityTempFile-03c31b9c29ee84eef97bb87e96b4b0c7
+    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-03c31b9c29ee84eef97bb87e96b4b0c7
+    projectPath: Temp/UnityTempFile-03c31b9c29ee84eef97bb87e96b4b0c7
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
-  - path: Temp/UnityTempFile-1760e49b0d1004bd28ea2ff75d11a756
-    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-1760e49b0d1004bd28ea2ff75d11a756
-    projectPath: Temp/UnityTempFile-1760e49b0d1004bd28ea2ff75d11a756
+  - path: Temp/UnityTempFile-1aef9cb4d435e4d15951e9ece942a4b1
+    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-1aef9cb4d435e4d15951e9ece942a4b1
+    projectPath: Temp/UnityTempFile-1aef9cb4d435e4d15951e9ece942a4b1
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
-  - path: Temp/UnityTempFile-351bb5c3f93884e2793e7b65017921ee
-    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-351bb5c3f93884e2793e7b65017921ee
-    projectPath: Temp/UnityTempFile-351bb5c3f93884e2793e7b65017921ee
+  - path: Temp/UnityTempFile-2827099ecb0c74604bbf712501ae3e76
+    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-2827099ecb0c74604bbf712501ae3e76
+    projectPath: Temp/UnityTempFile-2827099ecb0c74604bbf712501ae3e76
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
-  - path: Temp/UnityTempFile-3c46d0ff0bda94ea98445cda066653d3
-    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-3c46d0ff0bda94ea98445cda066653d3
-    projectPath: Temp/UnityTempFile-3c46d0ff0bda94ea98445cda066653d3
+  - path: Temp/UnityTempFile-44c728be955f44dbfa59efe0b0cec8de
+    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-44c728be955f44dbfa59efe0b0cec8de
+    projectPath: Temp/UnityTempFile-44c728be955f44dbfa59efe0b0cec8de
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
-  - path: Temp/UnityTempFile-49ade00fc7e8d4a328f90d359c4773b0
-    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-49ade00fc7e8d4a328f90d359c4773b0
-    projectPath: Temp/UnityTempFile-49ade00fc7e8d4a328f90d359c4773b0
+  - path: Temp/UnityTempFile-46e8a0797d0a54565a89f6bd043a85f0
+    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-46e8a0797d0a54565a89f6bd043a85f0
+    projectPath: Temp/UnityTempFile-46e8a0797d0a54565a89f6bd043a85f0
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
-  - path: Temp/UnityTempFile-4a9db4c7bc796404c8f63e5251cf9f40
-    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-4a9db4c7bc796404c8f63e5251cf9f40
-    projectPath: Temp/UnityTempFile-4a9db4c7bc796404c8f63e5251cf9f40
+  - path: Temp/UnityTempFile-65bfa44a0f3e844febd510f6c58f7c63
+    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-65bfa44a0f3e844febd510f6c58f7c63
+    projectPath: Temp/UnityTempFile-65bfa44a0f3e844febd510f6c58f7c63
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
-  - path: Temp/UnityTempFile-5aaa4d9ff903f4e05ad5d6cf18933015
-    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-5aaa4d9ff903f4e05ad5d6cf18933015
-    projectPath: Temp/UnityTempFile-5aaa4d9ff903f4e05ad5d6cf18933015
+  - path: Temp/UnityTempFile-80e824aa7615749a289d5f8a5fe6ae0a
+    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-80e824aa7615749a289d5f8a5fe6ae0a
+    projectPath: Temp/UnityTempFile-80e824aa7615749a289d5f8a5fe6ae0a
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
-  - path: Temp/UnityTempFile-7ee6434f735eb43d39f1743c421be38a
-    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-7ee6434f735eb43d39f1743c421be38a
-    projectPath: Temp/UnityTempFile-7ee6434f735eb43d39f1743c421be38a
+  - path: Temp/UnityTempFile-ac430b222c0a44e92bc637bfaf3acb44
+    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-ac430b222c0a44e92bc637bfaf3acb44
+    projectPath: Temp/UnityTempFile-ac430b222c0a44e92bc637bfaf3acb44
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
-  - path: Temp/UnityTempFile-8348651fe97a94c77831bb4031139418
-    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-8348651fe97a94c77831bb4031139418
-    projectPath: Temp/UnityTempFile-8348651fe97a94c77831bb4031139418
+  - path: Temp/UnityTempFile-def25f90f45bc4872bda439fb3b88865
+    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-def25f90f45bc4872bda439fb3b88865
+    projectPath: Temp/UnityTempFile-def25f90f45bc4872bda439fb3b88865
     originalPath: 
-    status: 5
-    staged: 0
-  - path: Temp/UnityTempFile-9407815ae7c9446e1a8f66f12ddc3144
-    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-9407815ae7c9446e1a8f66f12ddc3144
-    projectPath: Temp/UnityTempFile-9407815ae7c9446e1a8f66f12ddc3144
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Temp/UnityTempFile-d0cdd78e440ce468daa807d3ab4c7643
-    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-d0cdd78e440ce468daa807d3ab4c7643
-    projectPath: Temp/UnityTempFile-d0cdd78e440ce468daa807d3ab4c7643
-    originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/Assembly-CSharp.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/Assembly-CSharp.dll
     projectPath: Temp/UnityVS_bin/Debug/Assembly-CSharp.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/Assembly-CSharp.pdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/Assembly-CSharp.pdb
     projectPath: Temp/UnityVS_bin/Debug/Assembly-CSharp.pdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/AsyncBridge.Net35.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/AsyncBridge.Net35.dll
     projectPath: Temp/UnityVS_bin/Debug/AsyncBridge.Net35.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/Boo.Lang.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/Boo.Lang.dll
     projectPath: Temp/UnityVS_bin/Debug/Boo.Lang.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/ExCSS.Unity.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/ExCSS.Unity.dll
     projectPath: Temp/UnityVS_bin/Debug/ExCSS.Unity.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/GitHub.Api.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/GitHub.Api.dll
     projectPath: Temp/UnityVS_bin/Debug/GitHub.Api.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/GitHub.Api.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/GitHub.Api.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/GitHub.Api.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/GitHub.Logging.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/GitHub.Logging.dll
     projectPath: Temp/UnityVS_bin/Debug/GitHub.Logging.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/GitHub.Logging.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/GitHub.Logging.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/GitHub.Logging.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/GitHub.Unity.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/GitHub.Unity.dll
     projectPath: Temp/UnityVS_bin/Debug/GitHub.Unity.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/GitHub.Unity.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/GitHub.Unity.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/GitHub.Unity.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/ICSharpCode.SharpZipLib.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/ICSharpCode.SharpZipLib.dll
     projectPath: Temp/UnityVS_bin/Debug/ICSharpCode.SharpZipLib.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/Mono.Posix.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/Mono.Posix.dll
     projectPath: Temp/UnityVS_bin/Debug/Mono.Posix.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/Mono.Security.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/Mono.Security.dll
     projectPath: Temp/UnityVS_bin/Debug/Mono.Security.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/ReadOnlyCollectionsInterfaces.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/ReadOnlyCollectionsInterfaces.dll
     projectPath: Temp/UnityVS_bin/Debug/ReadOnlyCollectionsInterfaces.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/SyntaxTree.VisualStudio.Unity.Bridge.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/SyntaxTree.VisualStudio.Unity.Bridge.dll
     projectPath: Temp/UnityVS_bin/Debug/SyntaxTree.VisualStudio.Unity.Bridge.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/SyntaxTree.VisualStudio.Unity.Messaging.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/SyntaxTree.VisualStudio.Unity.Messaging.dll
     projectPath: Temp/UnityVS_bin/Debug/SyntaxTree.VisualStudio.Unity.Messaging.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/System.Core.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/System.Core.dll
     projectPath: Temp/UnityVS_bin/Debug/System.Core.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/System.Core.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/System.Core.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/System.Core.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/System.Runtime.Serialization.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/System.Runtime.Serialization.dll
     projectPath: Temp/UnityVS_bin/Debug/System.Runtime.Serialization.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/System.Runtime.Serialization.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/System.Runtime.Serialization.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/System.Runtime.Serialization.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/System.Threading.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/System.Threading.dll
     projectPath: Temp/UnityVS_bin/Debug/System.Threading.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/System.XML.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/System.XML.dll
     projectPath: Temp/UnityVS_bin/Debug/System.XML.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/System.XML.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/System.XML.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/System.XML.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/System.Xml.Linq.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/System.Xml.Linq.dll
     projectPath: Temp/UnityVS_bin/Debug/System.Xml.Linq.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/System.Xml.Linq.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/System.Xml.Linq.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/System.Xml.Linq.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/System.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/System.dll
     projectPath: Temp/UnityVS_bin/Debug/System.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/System.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/System.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/System.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/Unity.Cecil.Mdb.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/Unity.Cecil.Mdb.dll
     projectPath: Temp/UnityVS_bin/Debug/Unity.Cecil.Mdb.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/Unity.Cecil.Pdb.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/Unity.Cecil.Pdb.dll
     projectPath: Temp/UnityVS_bin/Debug/Unity.Cecil.Pdb.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/Unity.Cecil.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/Unity.Cecil.dll
     projectPath: Temp/UnityVS_bin/Debug/Unity.Cecil.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/Unity.CecilTools.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/Unity.CecilTools.dll
     projectPath: Temp/UnityVS_bin/Debug/Unity.CecilTools.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/Unity.DataContract.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/Unity.DataContract.dll
     projectPath: Temp/UnityVS_bin/Debug/Unity.DataContract.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/Unity.Legacy.NRefactory.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/Unity.Legacy.NRefactory.dll
     projectPath: Temp/UnityVS_bin/Debug/Unity.Legacy.NRefactory.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/Unity.SerializationLogic.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/Unity.SerializationLogic.dll
     projectPath: Temp/UnityVS_bin/Debug/Unity.SerializationLogic.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/Unity.UNetWeaver.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/Unity.UNetWeaver.dll
     projectPath: Temp/UnityVS_bin/Debug/Unity.UNetWeaver.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/Unity.UNetWeaver.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/Unity.UNetWeaver.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/Unity.UNetWeaver.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.Advertisements.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.Advertisements.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.Advertisements.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.Advertisements.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.Advertisements.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.Advertisements.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.Analytics.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.Analytics.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.Analytics.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.Analytics.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.Analytics.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.Analytics.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.GoogleAudioSpatializer.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.GoogleAudioSpatializer.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.GoogleAudioSpatializer.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.GoogleAudioSpatializer.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.GoogleAudioSpatializer.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.GoogleAudioSpatializer.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.Graphs.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.Graphs.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.Graphs.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.Graphs.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.Graphs.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.Graphs.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.HoloLens.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.HoloLens.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.HoloLens.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.HoloLens.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.HoloLens.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.HoloLens.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.HoloLens.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.HoloLens.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.HoloLens.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.Networking.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.Networking.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.Networking.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.Networking.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.Networking.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.Networking.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.Networking.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.Networking.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.Networking.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.OSXStandalone.Extensions.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.OSXStandalone.Extensions.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.OSXStandalone.Extensions.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.Purchasing.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.Purchasing.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.Purchasing.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.Purchasing.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.Purchasing.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.Purchasing.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.SpatialTracking.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.SpatialTracking.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.SpatialTracking.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.SpatialTracking.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.SpatialTracking.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.SpatialTracking.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.SpatialTracking.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.SpatialTracking.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.SpatialTracking.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.TestRunner.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.TestRunner.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.TestRunner.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.TestRunner.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.TestRunner.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.TestRunner.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.TestRunner.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.TestRunner.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.TestRunner.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.Timeline.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.Timeline.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.Timeline.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.Timeline.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.Timeline.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.Timeline.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.Timeline.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.Timeline.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.Timeline.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.TreeEditor.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.TreeEditor.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.TreeEditor.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.TreeEditor.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.TreeEditor.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.TreeEditor.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.TreeEditor.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.TreeEditor.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.TreeEditor.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.UI.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.UI.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.UI.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.UI.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.UI.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.UI.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.UI.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.UI.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.UI.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.UIAutomation.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.UIAutomation.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.UIAutomation.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.UIAutomation.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.UIAutomation.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.UIAutomation.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.UIAutomation.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.UIAutomation.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.UIAutomation.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.VR.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.VR.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.VR.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.VR.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.VR.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.VR.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.VR.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.VR.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.VR.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.iOS.Extensions.Common.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.iOS.Extensions.Common.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.iOS.Extensions.Common.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.iOS.Extensions.Common.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.iOS.Extensions.Common.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.iOS.Extensions.Common.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.iOS.Extensions.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.iOS.Extensions.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.iOS.Extensions.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.iOS.Extensions.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.iOS.Extensions.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.iOS.Extensions.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEditor.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEditor.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEditor.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.AIModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.AIModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.AIModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.AIModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.AIModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.AIModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.AIModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.AIModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.AIModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ARModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ARModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ARModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ARModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ARModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ARModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ARModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ARModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ARModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.AccessibilityModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.AccessibilityModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.AccessibilityModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.AccessibilityModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.AccessibilityModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.AccessibilityModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.Advertisements.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.Advertisements.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.Advertisements.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.Advertisements.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.Advertisements.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.Advertisements.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.Analytics.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.Analytics.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.Analytics.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.Analytics.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.Analytics.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.Analytics.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.AnimationModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.AnimationModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.AnimationModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.AnimationModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.AnimationModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.AnimationModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.AnimationModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.AnimationModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.AnimationModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.AssetBundleModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.AssetBundleModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.AssetBundleModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.AssetBundleModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.AssetBundleModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.AssetBundleModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.AudioModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.AudioModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.AudioModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.AudioModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.AudioModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.AudioModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.AudioModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.AudioModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.AudioModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ClothModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ClothModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ClothModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ClothModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ClothModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ClothModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ClothModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ClothModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ClothModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ClusterInputModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ClusterInputModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ClusterInputModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ClusterInputModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ClusterInputModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ClusterInputModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ClusterRendererModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ClusterRendererModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ClusterRendererModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ClusterRendererModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ClusterRendererModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ClusterRendererModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.CoreModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.CoreModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.CoreModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.CoreModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.CoreModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.CoreModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.CoreModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.CoreModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.CoreModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.CrashReportingModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.CrashReportingModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.CrashReportingModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.CrashReportingModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.CrashReportingModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.CrashReportingModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.DirectorModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.DirectorModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.DirectorModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.DirectorModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.DirectorModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.DirectorModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.DirectorModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.DirectorModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.DirectorModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.GameCenterModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.GameCenterModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.GameCenterModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.GameCenterModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.GameCenterModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.GameCenterModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.GameCenterModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.GameCenterModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.GameCenterModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.GridModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.GridModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.GridModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.GridModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.GridModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.GridModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.GridModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.GridModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.GridModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.HoloLens.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.HoloLens.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.HoloLens.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.HoloLens.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.HoloLens.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.HoloLens.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.HoloLens.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.HoloLens.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.HoloLens.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.IMGUIModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.IMGUIModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.IMGUIModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.IMGUIModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.IMGUIModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.IMGUIModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.IMGUIModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.IMGUIModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.IMGUIModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ImageConversionModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ImageConversionModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ImageConversionModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ImageConversionModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ImageConversionModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ImageConversionModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.InputModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.InputModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.InputModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.InputModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.InputModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.InputModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.InputModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.InputModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.InputModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.JSONSerializeModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.JSONSerializeModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.JSONSerializeModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.JSONSerializeModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.JSONSerializeModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.JSONSerializeModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.Networking.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.Networking.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.Networking.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.Networking.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.Networking.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.Networking.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.Networking.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.Networking.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.Networking.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ParticleSystemModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ParticleSystemModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ParticleSystemModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ParticleSystemModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ParticleSystemModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ParticleSystemModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ParticlesLegacyModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ParticlesLegacyModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ParticlesLegacyModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ParticlesLegacyModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ParticlesLegacyModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ParticlesLegacyModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.PerformanceReportingModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.PerformanceReportingModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.PerformanceReportingModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.PerformanceReportingModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.PerformanceReportingModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.PerformanceReportingModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.Physics2DModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.Physics2DModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.Physics2DModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.Physics2DModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.Physics2DModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.Physics2DModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.Physics2DModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.Physics2DModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.Physics2DModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.PhysicsModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.PhysicsModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.PhysicsModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.PhysicsModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.PhysicsModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.PhysicsModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.PhysicsModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.PhysicsModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.PhysicsModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.Purchasing.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.Purchasing.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.Purchasing.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.Purchasing.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.Purchasing.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.Purchasing.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ScreenCaptureModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ScreenCaptureModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ScreenCaptureModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.ScreenCaptureModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.ScreenCaptureModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.ScreenCaptureModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.SharedInternalsModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.SharedInternalsModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.SharedInternalsModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.SharedInternalsModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.SharedInternalsModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.SharedInternalsModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.SpatialTracking.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.SpatialTracking.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.SpatialTracking.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.SpatialTracking.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.SpatialTracking.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.SpatialTracking.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.SpatialTracking.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.SpatialTracking.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.SpatialTracking.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.SpriteMaskModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.SpriteMaskModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.SpriteMaskModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.SpriteMaskModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.SpriteMaskModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.SpriteMaskModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.SpriteShapeModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.SpriteShapeModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.SpriteShapeModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.SpriteShapeModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.SpriteShapeModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.SpriteShapeModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.StandardEvents.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.StandardEvents.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.StandardEvents.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.StandardEvents.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.StandardEvents.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.StandardEvents.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.StyleSheetsModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.StyleSheetsModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.StyleSheetsModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.StyleSheetsModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.StyleSheetsModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.StyleSheetsModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.TerrainModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.TerrainModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.TerrainModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.TerrainModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.TerrainModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.TerrainModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.TerrainModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.TerrainModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.TerrainModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.TerrainPhysicsModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.TerrainPhysicsModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.TerrainPhysicsModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.TerrainPhysicsModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.TerrainPhysicsModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.TerrainPhysicsModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.TestRunner.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.TestRunner.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.TestRunner.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.TestRunner.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.TestRunner.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.TestRunner.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.TestRunner.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.TestRunner.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.TestRunner.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.TextRenderingModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.TextRenderingModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.TextRenderingModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.TextRenderingModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.TextRenderingModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.TextRenderingModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.TilemapModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.TilemapModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.TilemapModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.TilemapModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.TilemapModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.TilemapModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.TilemapModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.TilemapModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.TilemapModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.Timeline.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.Timeline.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.Timeline.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.Timeline.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.Timeline.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.Timeline.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.Timeline.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.Timeline.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.Timeline.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UI.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UI.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UI.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UI.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UI.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UI.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UI.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UI.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UI.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UIAutomation.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UIAutomation.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UIAutomation.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UIAutomation.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UIAutomation.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UIAutomation.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UIAutomation.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UIAutomation.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UIAutomation.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UIElementsModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UIElementsModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UIElementsModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UIElementsModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UIElementsModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UIElementsModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UIElementsModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UIElementsModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UIElementsModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UIModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UIModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UIModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UIModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UIModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UIModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UIModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UIModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UIModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UNETModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UNETModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UNETModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UNETModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UNETModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UNETModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UNETModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UNETModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UNETModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UnityAnalyticsModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UnityAnalyticsModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UnityAnalyticsModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UnityAnalyticsModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UnityAnalyticsModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UnityAnalyticsModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UnityConnectModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UnityConnectModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UnityConnectModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UnityConnectModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UnityConnectModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UnityConnectModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.VRModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.VRModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.VRModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.VRModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.VRModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.VRModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.VRModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.VRModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.VRModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.VehiclesModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.VehiclesModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.VehiclesModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.VehiclesModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.VehiclesModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.VehiclesModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.VehiclesModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.VehiclesModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.VehiclesModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.VideoModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.VideoModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.VideoModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.VideoModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.VideoModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.VideoModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.VideoModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.VideoModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.VideoModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.WebModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.WebModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.WebModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.WebModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.WebModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.WebModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.WebModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.WebModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.WebModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.WindModule.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.WindModule.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.WindModule.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.WindModule.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.WindModule.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.WindModule.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.WindModule.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.WindModule.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.WindModule.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityEngine.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityEngine.xml
     projectPath: Temp/UnityVS_bin/Debug/UnityEngine.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/UnityScript.Lang.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/UnityScript.Lang.dll
     projectPath: Temp/UnityVS_bin/Debug/UnityScript.Lang.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/mscorlib.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/mscorlib.dll
     projectPath: Temp/UnityVS_bin/Debug/mscorlib.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/mscorlib.dll.mdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/mscorlib.dll.mdb
     projectPath: Temp/UnityVS_bin/Debug/mscorlib.dll.mdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/nunit.framework.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/nunit.framework.dll
     projectPath: Temp/UnityVS_bin/Debug/nunit.framework.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/nunit.framework.pdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/nunit.framework.pdb
     projectPath: Temp/UnityVS_bin/Debug/nunit.framework.pdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/nunit.framework.xml
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/nunit.framework.xml
     projectPath: Temp/UnityVS_bin/Debug/nunit.framework.xml
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_bin/Debug/sfw.net.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_bin/Debug/sfw.net.dll
     projectPath: Temp/UnityVS_bin/Debug/sfw.net.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_obj/Debug/Assembly-CSharp.dll
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_obj/Debug/Assembly-CSharp.dll
     projectPath: Temp/UnityVS_obj/Debug/Assembly-CSharp.dll
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_obj/Debug/Assembly-CSharp.pdb
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_obj/Debug/Assembly-CSharp.pdb
     projectPath: Temp/UnityVS_obj/Debug/Assembly-CSharp.pdb
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_obj/Debug/T-Rex Runner.csproj.CopyComplete
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_obj/Debug/T-Rex Runner.csproj.CopyComplete
     projectPath: Temp/UnityVS_obj/Debug/T-Rex Runner.csproj.CopyComplete
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_obj/Debug/T-Rex Runner.csproj.CoreCompileInputs.cache
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_obj/Debug/T-Rex Runner.csproj.CoreCompileInputs.cache
     projectPath: Temp/UnityVS_obj/Debug/T-Rex Runner.csproj.CoreCompileInputs.cache
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_obj/Debug/T-Rex Runner.csproj.FileListAbsolute.txt
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_obj/Debug/T-Rex Runner.csproj.FileListAbsolute.txt
     projectPath: Temp/UnityVS_obj/Debug/T-Rex Runner.csproj.FileListAbsolute.txt
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Temp/UnityVS_obj/Debug/T-Rex Runner.csprojResolveAssemblyReference.cache
     fullPath: /Users/seena/T-Rex Runner/Temp/UnityVS_obj/Debug/T-Rex Runner.csprojResolveAssemblyReference.cache
     projectPath: Temp/UnityVS_obj/Debug/T-Rex Runner.csprojResolveAssemblyReference.cache
     originalPath: 
-    status: 5
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/CollisionDetection.cs
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/CollisionDetection.cs
+    projectPath: Temp/Upload/Assets/CollisionDetection.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/GameOverMenu.cs
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/GameOverMenu.cs
+    projectPath: Temp/Upload/Assets/GameOverMenu.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/GameOverMenu.cs.meta
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/GameOverMenu.cs.meta
+    projectPath: Temp/Upload/Assets/GameOverMenu.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Jump.cs
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Jump.cs
+    projectPath: Temp/Upload/Assets/Jump.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/Assets/Main.unity
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/Assets/Main.unity
+    projectPath: Temp/Upload/Assets/Main.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/Upload/ProjectSettings/TagManager.asset
+    fullPath: /Users/seena/T-Rex Runner/Temp/Upload/ProjectSettings/TagManager.asset
+    projectPath: Temp/Upload/ProjectSettings/TagManager.asset
+    originalPath: 
+    status: 1
     staged: 0
   - path: Temp/__Backupscenes/0.backup
     fullPath: /Users/seena/T-Rex Runner/Temp/__Backupscenes/0.backup
     projectPath: Temp/__Backupscenes/0.backup
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets/GameOverMenu.cs
-    fullPath: /Users/seena/T-Rex Runner/Assets/GameOverMenu.cs
-    projectPath: Assets/GameOverMenu.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets/GameOverMenu.cs.meta
-    fullPath: /Users/seena/T-Rex Runner/Assets/GameOverMenu.cs.meta
-    projectPath: Assets/GameOverMenu.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library/ShaderCache/0/08cea40e022618f56c7424a049c5d78e.bin
-    fullPath: /Users/seena/T-Rex Runner/Library/ShaderCache/0/08cea40e022618f56c7424a049c5d78e.bin
-    projectPath: Library/ShaderCache/0/08cea40e022618f56c7424a049c5d78e.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library/ShaderCache/6/620d224fe1d90f0faec44cb6bdccbb75.bin
-    fullPath: /Users/seena/T-Rex Runner/Library/ShaderCache/6/620d224fe1d90f0faec44cb6bdccbb75.bin
-    projectPath: Library/ShaderCache/6/620d224fe1d90f0faec44cb6bdccbb75.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library/metadata/2f/2f92d68bad4a3413986a3a301cd453d9
-    fullPath: /Users/seena/T-Rex Runner/Library/metadata/2f/2f92d68bad4a3413986a3a301cd453d9
-    projectPath: Library/metadata/2f/2f92d68bad4a3413986a3a301cd453d9
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library/metadata/2f/2f92d68bad4a3413986a3a301cd453d9.info
-    fullPath: /Users/seena/T-Rex Runner/Library/metadata/2f/2f92d68bad4a3413986a3a301cd453d9.info
-    projectPath: Library/metadata/2f/2f92d68bad4a3413986a3a301cd453d9.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-1d6f27f63933343adbc1c84adba1911d
-    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-1d6f27f63933343adbc1c84adba1911d
-    projectPath: Temp/UnityTempFile-1d6f27f63933343adbc1c84adba1911d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-b071307d55a2d4d22a823ff6a0cf2697
-    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-b071307d55a2d4d22a823ff6a0cf2697
-    projectPath: Temp/UnityTempFile-b071307d55a2d4d22a823ff6a0cf2697
     originalPath: 
     status: 1
     staged: 0

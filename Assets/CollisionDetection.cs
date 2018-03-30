@@ -5,6 +5,8 @@ using UnityEngine;
 public class CollisionDetection : MonoBehaviour
 {
 
+    public static bool gameOver = false;
+
 	private void Start()
 	{
         Debug.Log("Called");
@@ -15,7 +17,7 @@ public class CollisionDetection : MonoBehaviour
         if (collision.collider.tag == ("Cactus"))
         {
             Debug.Log("hit");
-            gameOver();
+            gameOverFunc();
 
         }
         else{
@@ -23,10 +25,10 @@ public class CollisionDetection : MonoBehaviour
         }
 	}
 
-    void gameOver()
+    void gameOverFunc()
     {
-        
         print("game over");
+        gameOver = true;
     }
 
 }
