@@ -12,12 +12,66 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-03-30T12:58:42.7146250+01:00
+  lastUpdatedAtString: 0001-01-01T00:00:00.0000000+00:00
   initializedAtString: 2018-03-30T12:31:49.6823210+01:00
   entries:
+  - path: Assets/Jump.cs
+    fullPath: /Users/seena/T-Rex Runner/Assets/Jump.cs
+    projectPath: Assets/Jump.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Main.unity
+    fullPath: /Users/seena/T-Rex Runner/Assets/Main.unity
+    projectPath: Assets/Main.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/Collab/CollabSnapshot_905eb81e-5a67-4586-884c-29d3eb7003a8.txt
+    fullPath: /Users/seena/T-Rex Runner/Library/Collab/CollabSnapshot_905eb81e-5a67-4586-884c-29d3eb7003a8.txt
+    projectPath: Library/Collab/CollabSnapshot_905eb81e-5a67-4586-884c-29d3eb7003a8.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/InspectorExpandedItems.asset
+    fullPath: /Users/seena/T-Rex Runner/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/seena/T-Rex Runner/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    fullPath: /Users/seena/T-Rex Runner/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/assetDatabase3
+    fullPath: /Users/seena/T-Rex Runner/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/seena/T-Rex Runner/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -26,4 +80,40 @@ MonoBehaviour:
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
     originalPath: 
     status: 3
+    staged: 0
+  - path: Library/metadata/00/00000000000000003000000000000000
+    fullPath: /Users/seena/T-Rex Runner/Library/metadata/00/00000000000000003000000000000000
+    projectPath: Library/metadata/00/00000000000000003000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/metadata/82/82f3293bef578499cb9f311838b422ba
+    fullPath: /Users/seena/T-Rex Runner/Library/metadata/82/82f3293bef578499cb9f311838b422ba
+    projectPath: Library/metadata/82/82f3293bef578499cb9f311838b422ba
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings/TagManager.asset
+    fullPath: /Users/seena/T-Rex Runner/ProjectSettings/TagManager.asset
+    projectPath: ProjectSettings/TagManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/seena/T-Rex Runner/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/CrashedAssetImports.txt
+    fullPath: /Users/seena/T-Rex Runner/Library/CrashedAssetImports.txt
+    projectPath: Library/CrashedAssetImports.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-0c5ee186057a64a5aa5a8091f1a8beb6
+    fullPath: /Users/seena/T-Rex Runner/Temp/UnityTempFile-0c5ee186057a64a5aa5a8091f1a8beb6
+    projectPath: Temp/UnityTempFile-0c5ee186057a64a5aa5a8091f1a8beb6
+    originalPath: 
+    status: 1
     staged: 0
