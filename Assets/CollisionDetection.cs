@@ -5,10 +5,28 @@ using UnityEngine;
 public class CollisionDetection : MonoBehaviour
 {
 
-	private void OnTriggerEnter(Collider other)
+	private void Start()
 	{
-        print("Collision");
+        Debug.Log("Called");
 	}
+
+	private void OnCollisionEnter2D(Collision2D collision)
+	{
+        if (collision.collider.tag == ("Cactus"))
+        {
+            Debug.Log("hit");
+            gameOver();
+
+        }
+        else{
+            Debug.Log("Collision- not cactus");
+        }
+	}
+
+    void gameOver()
+    {
+        print("game over");
+    }
 
 }
   

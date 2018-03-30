@@ -8,7 +8,6 @@
       <File FileName="Assets/CameraFollow.cs" Line="11" Column="26" />
       <File FileName="Assets/CactusGenerator.cs" Line="33" Column="1" />
       <File FileName="Assets/CollisionDetection.cs" Line="10" Column="28" />
-      <File FileName="Source Not Found" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

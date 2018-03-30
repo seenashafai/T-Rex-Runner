@@ -272,10 +272,10 @@ GameObject:
   - component: {fileID: 655850474}
   m_Layer: 0
   m_Name: Cactus-Large01
-  m_TagString: Untagged
+  m_TagString: Cactus
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!61 &655850474
 BoxCollider2D:
