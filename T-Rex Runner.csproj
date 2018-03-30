@@ -349,7 +349,10 @@
     <Compile Include="Assets\GameOverMenu.cs" />
     <Compile Include="Assets\GroundGenerator.cs" />
     <Compile Include="Assets\Jump.cs" />
+    <Compile Include="Assets\Music.cs" />
+    <Compile Include="Assets\MusicController.cs" />
     <Compile Include="Assets\PlayerMovement.cs" />
+    <Compile Include="Assets\Restart.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugins\GitHub\Editor\CREDITS.txt" />

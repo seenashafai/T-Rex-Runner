@@ -1,14 +1,16 @@
 ﻿<Properties StartupConfiguration="{CC4A4B4B-E922-513F-0C8C-40EFDB879816}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CollisionDetection.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Restart.cs">
     <Files>
       <File FileName="Assets/PlayerMovement.cs" Line="17" Column="1" />
       <File FileName="Assets/Jump.cs" Line="15" Column="51" />
       <File FileName="Assets/GroundGenerator.cs" Line="10" Column="27" />
       <File FileName="Assets/CameraFollow.cs" Line="11" Column="26" />
       <File FileName="Assets/CactusGenerator.cs" Line="33" Column="1" />
-      <File FileName="Assets/CollisionDetection.cs" Line="9" Column="5" />
-      <File FileName="Assets/GameOverMenu.cs" Line="38" Column="27" />
+      <File FileName="Assets/CollisionDetection.cs" Line="6" Column="2" />
+      <File FileName="Assets/GameOverMenu.cs" Line="35" Column="28" />
+      <File FileName="Assets/MusicController.cs" Line="24" Column="12" />
+      <File FileName="Assets/Restart.cs" Line="13" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
